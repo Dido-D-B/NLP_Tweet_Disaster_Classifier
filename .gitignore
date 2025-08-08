@@ -1,0 +1,39 @@
+# OS / editor cruft
+.DS_Store
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+.env.*
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Data (keep tiny samples only)
+data/
+!/data/README.md
+app/data/
+!app/data/test_sample.csv
+
+# Models / artifacts (use LFS—see below)
+*.keras
+*.h5
+*.hdf5
+*.pb
+*.tflite
+*.pickle
+*.pkl
+*.joblib
+app/reports/*.csv
+!app/reports/classification_report_summary.csv
+!app/reports/eval_misclassified.csv
+
+# Streamlit
+.streamlit/secrets.toml
