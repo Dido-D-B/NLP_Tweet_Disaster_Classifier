@@ -37,18 +37,22 @@ def _safe_nltk_download(pkg):
         if pkg == "punkt":
             nltk.data.find("tokenizers/punkt")
         elif pkg == "punkt_tab":
+            # Newer NLTK splits punkt models into 'punkt_tab/<lang>'
             nltk.data.find("tokenizers/punkt_tab/english")
         elif pkg == "stopwords":
             nltk.corpus.stopwords.words("english")
         elif pkg == "averaged_perceptron_tagger":
             nltk.data.find("taggers/averaged_perceptron_tagger")
+        elif pkg == "averaged_perceptron_tagger_eng":
+            # Newer NLTK name for the English perceptron tagger
+            nltk.data.find("taggers/averaged_perceptron_tagger_eng")
         elif pkg == "wordnet":
             nltk.data.find("corpora/wordnet")
         return
     except LookupError:
         nltk.download(pkg, quiet=True)
 
-for pkg in ["punkt", "punkt_tab", "stopwords", "averaged_perceptron_tagger", "wordnet"]:
+for pkg in ["punkt", "punkt_tab", "stopwords", "averaged_perceptron_tagger", "averaged_perceptron_tagger_eng", "wordnet"]:
     _safe_nltk_download(pkg)
 
 stop_words = set(stopwords.words("english"))
@@ -186,9 +190,16 @@ elif page == "Random Tweet Test":
 
     @st.cache_data
     def load_test_data():
-        return pd.read_csv("app/data/test.csv")
+        candidates = ["app/data/test_sample.csv", "app/data/test.csv"]
+        for path in candidates:
+            if os.path.exists(path):
+                return pd.read_csv(path)
+        st.info("No test data found. Add **app/data/test_sample.csv** (preferred) or **app/data/test.csv** to enable the Random Tweet page.")
+        return pd.DataFrame(columns=["text", "target"])
 
     test_df = load_test_data()
+    if test_df.empty:
+        st.stop()
 
     if st.button("Generate and Classify Random Tweet"):
         random_row = test_df.sample(1).iloc[0]
