@@ -37,3 +37,8 @@ app/reports/*.csv
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Exceptions for deploy artifacts ---
+!app/model/cnn_disaster_classifier.keras
+!app/model/tokenizer.pickle
+!app/data/test.csv
