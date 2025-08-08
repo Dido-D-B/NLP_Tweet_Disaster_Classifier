@@ -10,7 +10,7 @@ brianroemmele ux fail of emv people want to insert and remove quickly like gas p
 cant find my ariana grande shirt this is fucking tragedy,0,0,True Negative
 the murderous story of americauas first hijacking,1,1,True Positive
 akilah world news cop pulls man from car to avoid this,1,1,True Positive
-we walk the plank of sinking ship,0,0,True Negative
+we walk the plank of sinking ship,0,1,False Positive
 zak_bagans pets like part of the family love animals the last pets had rescued breaks my heart when animals are mistreated,0,0,True Negative
 on the use of perforated metal shear panel sfor seismicresistant applications,0,0,True Negative
 the answer my friend is yelling in the windmy latest article for read and share thanks,0,0,True Negative
@@ -22,16 +22,16 @@ people are finally panicking about cable tv,0,0,True Negative
 nepal earthquake months on women fear abuse via loupascale,1,1,True Positive
 escape the heat and the orshow for trail run on desolation loop youll be glad you did,0,0,True Negative
 marginoferror wish going custom rom werent so catastrophic,0,0,True Negative
-zachlowe_nba there are few reasons for that but one of them is the constant drake inundation extremely annoying if drake lands us,0,0,True Negative
+zachlowe_nba there are few reasons for that but one of them is the constant drake inundation extremely annoying if drake lands us,0,1,False Positive
 illegal alien released by obamadhs times charged with rape amp murder of santa maria ca woman had prior offenses,1,1,True Positive
-bloopandablast because need to know if im supposed to throw myself off bridge for collapse or plan the parade there is no both,0,1,False Positive
+bloopandablast because need to know if im supposed to throw myself off bridge for collapse or plan the parade there is no both,0,0,True Negative
 residents return to destroyed homes as washington wildfire burns on,1,1,True Positive
 kidnapped ladies rescued by police in enugu nigerian tribune,1,1,True Positive
 hiroshima survivors fight nuclear industry in brazil uo video,1,1,True Positive
 stuart broad takes eight before joe root runs riot against aussies stuart broad took careerbest figures of,0,0,True Negative
-myvintagesoul of the british upper class and his manservant the pampered wealthy brit causes catastrophic shift reversal of,0,0,True Negative
+myvintagesoul of the british upper class and his manservant the pampered wealthy brit causes catastrophic shift reversal of,0,1,False Positive
 neighbor kids stopped to watch me play disneys lava you song on my uke left as got into journeys dont stop believing kidsthesedays,0,0,True Negative
-added video to youtube playlist natural disaster survival hug by guest on roblox,0,0,True Negative
+added video to youtube playlist natural disaster survival hug by guest on roblox,0,1,False Positive
 as of the month mark there were total of fatalities more than the first half of last year,1,1,True Positive
 kinder_morgan cantwont tell cityofkamloops how theyd respond to an oil spill trust them see sec kamloops,1,1,True Positive
 shes suicide bomb,0,1,False Positive
@@ -42,7 +42,7 @@ dear canonusaimaging brought it canonbringit fire canontattoo mn theresmorewhere
 my mama scared of the thunder,0,0,True Negative
 breakfast links work from home derailed an empty train derailed at smithsonian this morning suspending ser,1,1,True Positive
 wired business reddit will now quarantine offensive content,0,0,True Negative
-its miracle that mankind survived years since one of the worst days in its history all bets are off if it will survive the next,1,1,True Positive
+its miracle that mankind survived years since one of the worst days in its history all bets are off if it will survive the next,1,0,False Negative
 what wonderful day,0,0,True Negative
 pattonoswalt foxnews wait thought fecal hurricane was on scifi maybe that was turdnado ive been forgeting up shit storm lately,1,1,True Positive
 california wildfires force thousands to evacuate via youtube,1,1,True Positive
@@ -59,14 +59,14 @@ fedex no longer to transport bioterror germs in wake of anthrax lab mishaps via 
 amirkingkhan you would have been annihilated so you might as well thank floydmayweather,0,0,True Negative
 todayuas storm will pass let tomorrowuas light greet you with kiss bask in this loving warmth let your soul return to bliss,1,0,False Negative
 battlefield funny moments dukes of hazard undercover soldier mav via youtube,0,0,True Negative
-magic city mayhem kissimmee adventures aug,0,0,True Negative
-social casualty mtvhottest sos,0,1,False Positive
+magic city mayhem kissimmee adventures aug,0,1,False Positive
+social casualty mtvhottest sos,0,0,True Negative
 watch this airport get swallowed up by sandstorm in under minute,1,1,True Positive
 lukebox something about first responders military they are our true heros besides your music,0,0,True Negative
 body bags,0,0,True Negative
-fedex not willing to transport research specimens of potential bioterror pathogens in wake of anthrax lab mishaps,1,0,False Negative
+fedex not willing to transport research specimens of potential bioterror pathogens in wake of anthrax lab mishaps,1,1,True Positive
 red cross reopens shelter at bickleton school after homes evacuated in amp around roosevelt wa due to wildfire liveonk,1,1,True Positive
-my ears are bleeding hate stefano,0,0,True Negative
+my ears are bleeding hate stefano,0,1,False Positive
 hellfire we donuat even want to think about it or mention it so letuas not do anything that leads to it islam,1,0,False Negative
 do you know anyone looking to move to hammond or share this listing,0,0,True Negative
 new and now different fnaf fanfiction trixie_drowned pageshi my awesome proxies its wattpad promo,0,0,True Negative
@@ -78,7 +78,7 @@ autoinsurance industry clueless on driverlesscars markets money times,0,1,False 
 raineishida lolim just nervous wreck,0,0,True Negative
 oh shit its rly sheeting aaaaaand theres the thunder and lightning missed summer storms,1,0,False Negative
 crushed the gym then crushed butterfinger flurry clearly my priorities are straight,0,0,True Negative
-nxwestmidlands huge fire at wholesale markets ablaze,1,0,False Negative
+nxwestmidlands huge fire at wholesale markets ablaze,1,1,True Positive
 tubestrike derailed you our robertwelch cutlery offers will get you back on track,0,0,True Negative
 obliterated,0,0,True Negative
 us national park services tonto national forest stop the annihilation of the salt river wild horse via change,1,0,False Negative
@@ -89,13 +89,13 @@ route complex am fire update route complex wildfire fire update route complex th
 the tubestrike is because tfl workers may have trouble planning downtime hope none need emergency services,0,0,True Negative
 after death of palestinian toddler in arson attack israel cracks down on jewish,1,1,True Positive
 so cool garbanzobean in the news cutest indot worker but might be little bias,0,0,True Negative
-totally agree they rape kill destroy and leave land desolate action needs to happen before the swarm swells,1,0,False Negative
-another day another excellent _dangerousbeans porridge seriously people blood orange in porridge is phenomenal,0,1,False Positive
+totally agree they rape kill destroy and leave land desolate action needs to happen before the swarm swells,1,1,True Positive
+another day another excellent _dangerousbeans porridge seriously people blood orange in porridge is phenomenal,0,0,True Negative
 eric_tsunami worry about yourself,0,0,True Negative
 thingsihate watching someone you care about head into total destruction and not being able to do anything,0,0,True Negative
 sethalphaeus my personal favorites include paramore muse green day royal blood and sos,0,0,True Negative
 flyopinemonkey you mean olympic also its followup for honshu operation coronet in all allied casualties japanese dead,1,1,True Positive
-fairfax investigating firefighter over facebook post saying police should be put in ubody bagsua the washington post,0,0,True Negative
+fairfax investigating firefighter over facebook post saying police should be put in ubody bagsua the washington post,0,1,False Positive
 rt rtrrtcoach love truelove romance lith voodoo seduction astrology rtrrt lotz apocalypse armageddon planetu_,0,0,True Negative
 blog rain much needed as drought conditions worsen right now charlotte and much of the surrounding area haveu_,1,1,True Positive
 rebelmage im glad you got away xd but my be safe was in reference to tornado near calgary and drum heller at around,1,1,True Positive
@@ -106,7 +106,7 @@ just screamed what the fuck is hond,0,0,True Negative
 so if capsize on your thighs high tide you sunk my battleship gt,0,0,True Negative
 zaynmalik dont overwork yourself your album is gonna be fire just dont overwork or stress love you take care,0,0,True Negative
 armageddon averted by el patron ultimalucha,0,0,True Negative
-exploring new worlds three moments of an explosion by china miiville,1,1,True Positive
+exploring new worlds three moments of an explosion by china miiville,1,0,False Negative
 rocky fire in northern california swells to acres evacuated portland phoenix miami atlanta casper,1,1,True Positive
 danemillar screams,0,0,True Negative
 warne shocked over australias epic collapse at trent bridge johannesburg aug ani legendary australian,1,1,True Positive
@@ -115,9 +115,9 @@ updated rockyfire map with mandatory evacuation areas red advisory evacuation ye
 back to the future in vanuatu how cyclone pam has encouraged traditional ways of living,1,1,True Positive
 new summer long thin body bag hip word skirt blue,0,0,True Negative
 hot specially modified to land in stadium and rescue hostages in iran in prebreak best,1,1,True Positive
-the secrets of the storm vortex the lightning catcher book u_,0,0,True Negative
-dust devil maintenance fee buy up la rotary storm guard uvopwz,0,0,True Negative
-battleroyalemod when they die they just get teleported into somewhere middle of ocean and stays trapped in there unless they decides,0,0,True Negative
+the secrets of the storm vortex the lightning catcher book u_,0,1,False Positive
+dust devil maintenance fee buy up la rotary storm guard uvopwz,0,1,False Positive
+battleroyalemod when they die they just get teleported into somewhere middle of ocean and stays trapped in there unless they decides,0,1,False Positive
 if you wanna smoke cigs thats your own problem but when your breath smells like an old ash tray thats fucking disgusting,0,0,True Negative
 ud rescue structural collapse scott road ypres road york trucks,1,1,True Positive
 new crime knowing your rights punishable by death,0,0,True Negative
@@ -127,7 +127,7 @@ this was boston yesterday after an intense hailstorm xpost from rcityporn in u_,
 danielsahyounie itd be so bomb if guys won,0,0,True Negative
 bayelsa poll tension in bayelsa as patience jonathan plans to hijack apc pdp plans by former first lady and,0,1,False Positive
 gunmen kill four in el salvador bus attack suspected salvadoran gang members killed four people and wounded,1,1,True Positive
-method in contemplation of incident an leading bridal landslide wiwnpfxa,1,1,True Positive
+method in contemplation of incident an leading bridal landslide wiwnpfxa,1,0,False Negative
 zicac vintage leather briefcase messenger satchel tote cross body handbags for womens,0,0,True Negative
 if landslide tumbles down todayim on your side and if twister sweeps it all away youre on your own bitchruns into distance,1,0,False Negative
 so the ahamedis think the messiah had already come years ago where is armageddon where is the dajaal where is gog amp magog,0,0,True Negative
@@ -139,14 +139,14 @@ traumatised dog that was found buried up to its head in dirt in france is now in
 when you see your crush in the stands vine by khadidon,0,0,True Negative
 spot flood combo inch curved cree led work light bar offroad fog lamp full reu_,0,0,True Negative
 madhya pradesh train derailment village youth saved many lives,1,1,True Positive
-remaining sections of greystone psychiatric hospital under demolition pic,0,0,True Negative
+remaining sections of greystone psychiatric hospital under demolition pic,0,1,False Positive
 investment news keurig green mountain inc thirdquarter earnings shares sinking afterhours stocks in the newu_,0,0,True Negative
 bbclaurak why is no one talking about the risk of suicide bomber hiding amongst the migrants stowing aboard the eurotunnel trains,1,1,True Positive
 halljh am so sick of criminals parents and friends rioting when they are killed by police you dont give damn when officer is,1,1,True Positive
 dont say alipaper women got problems this keepingtheviginaclean thing is very interesting less expensive metrofmtalk,0,0,True Negative
 businesses aredeluged with invoices make urs stand out with colour or shape and its likely to rise to the top of the pay pile,0,0,True Negative
 stormchase violent record breaking ef el reno oklahoma tornado nearly runs over,1,1,True Positive
-friendly reminder that the only country to ever use nuclear weapons is the us and it was against civilians,1,0,False Negative
+friendly reminder that the only country to ever use nuclear weapons is the us and it was against civilians,1,1,True Positive
 still have not heard church leaders of kenya coming forward to comment on the accident issue and disciplinary measuresarrestpastornganga,0,1,False Positive
 katramsland yes im bleeding heart liberal,1,0,False Negative
 latest landslide kills three near venice after heavy rain,1,1,True Positive
@@ -179,7 +179,7 @@ nuu that fam fwt im leave you in body bag,0,0,True Negative
 injured missing in bridge collapse in central mexico fox news latino,1,1,True Positive
 god forbid this is true california has enough problems with severe drought amp wild fires nuclear power sanonofre,1,1,True Positive
 helpme what do do my friend has been ticketed by police in wayne county michigan into never sending poverty cycle how do help him,0,1,False Positive
-allahsfinest death to muslims,1,0,False Negative
+allahsfinest death to muslims,1,1,True Positive
 when the last tree is cut down the last fish eaten and the last stream poisoned you will realize that you,0,0,True Negative
 yeah lamb of god rock am ring introdesolation hd via youtube,0,0,True Negative
 burning man tickets vehicle pass full read by ebay,0,0,True Negative
@@ -193,7 +193,7 @@ christinalavv lindsay_wynn just saw these tweets and feel really attacked,0,0,Tr
 it was finally demolished in the spring of and the property has sat vacant since the justu_ saddlebrooke,0,0,True Negative
 large explosion rocks aluminum plant in southeast missouri renaomino logo,1,1,True Positive
 deepak chopras epic twitter meltdown,0,0,True Negative
-on the flip side im at walmart and there is bomb and everyone had to evacuate so stay tuned if blow up or not,1,0,False Negative
+on the flip side im at walmart and there is bomb and everyone had to evacuate so stay tuned if blow up or not,1,1,True Positive
 dont understand taking any life as trophy its violent killing cecilthelion badchoices bantrophyhunting,1,1,True Positive
 mallelis have you gotten to the postbattle wereonadesolateplanet belowthemasondixonline style electro violin playing yet,0,0,True Negative
 nwspocatello bg so far brunt of storm just to our north grayed out dust amp rain to blue sky interspersed clouds to,0,1,False Positive
@@ -203,7 +203,7 @@ alextucker volcano bowl drink,1,0,False Negative
 the minute fatburning routine thatuas also really fun fat weightless fatburning burnfat skinny workout,0,0,True Negative
 factors to consider when hiring demolition company noxdv,0,0,True Negative
 tbt remember that time patrick kane attacked cab driver over,0,0,True Negative
-you messed up my feeling like hurricane damaged this broken home,0,1,False Positive
+you messed up my feeling like hurricane damaged this broken home,0,0,True Negative
 we are totally unprepared for an emp attack both china russia and probably isis possess them fatalities why are we pushing them,1,1,True Positive
 youssefyamani add fez weather to the equation and you have the best recipe for disaster,0,0,True Negative
 propertycasualty insurance rates up in july after several months of no movement commercial propertycasu,1,1,True Positive
@@ -213,7 +213,7 @@ nbanews soudelor typhoon soudelor is taking dead aim at taiwan and is expected t
 on st august turkish jets bombed the village zergele in qendil and killed civilians and others wounded,1,1,True Positive
 firefighters from connecticut are headed to california to fight wild fires,1,1,True Positive
 wreckage conclusively confirmed as from mh malaysia pm investigators and the families of those who were,1,1,True Positive
-kevin tan says hail to the chefs u_ and green pastures which features sustainable and organic cooking,0,0,True Negative
+kevin tan says hail to the chefs u_ and green pastures which features sustainable and organic cooking,0,1,False Positive
 biggangvh looks like george was having panic attack lol,0,0,True Negative
 governor weighs parole for california school bus hijacker,1,1,True Positive
 oops bounty hunters try to raid phoenix police chiefs home group of armed bounty,1,1,True Positive
@@ -224,26 +224,26 @@ storm in ri worse than last hurricane my cityampothers hardest hit my yard looks
 sigalert north amp southbound closed btwn fwy and irvine blvd due to truck fire chp is detouring traffic,1,1,True Positive
 im cyclone passion overblown,0,0,True Negative
 news refugio oil spill may have been costlier bigger than projected,1,1,True Positive
-inec office in abia set ablaze,1,0,False Negative
+inec office in abia set ablaze,1,1,True Positive
 entertainment hollywood movie about trapped miners released in chile santiago chile ap uo the hollyw news,0,0,True Negative
 check out want twister tickets and vip experience to see shania click here at would love love love to win,0,0,True Negative
 there has not been real tear out of shelli eyes this entire episode bb,0,0,True Negative
 aug radio show articles uo eyewitness account of abortion organ harvesting by planned parenthood,0,0,True Negative
-likeavillasboas rich_chandler being injury prone isnt actually just suffering injuries often,0,0,True Negative
+likeavillasboas rich_chandler being injury prone isnt actually just suffering injuries often,0,1,False Positive
 descended or sunk however it may be to the shadowed land beyond the crest of striking cobra landing harshly upon his back torch and,0,0,True Negative
 islamic state group in egypt threatens to kill croat hostage,1,1,True Positive
 not catastrophe at all im perfectly content being the only one means nothing when im being controlled text me if you got crap to say,0,0,True Negative
 businesses abe deluged with invoices make yours stand out with colour or shape and its likely to rise to the top of the paypile,0,0,True Negative
 bigperm was drafted by the avalanche in rd overall played last season in utahgrizz,0,0,True Negative
-kinggerudo_ to the largest moblins hed leaving the biggest one for red and fired with one strike already the threat was reduced gt,0,1,False Positive
+kinggerudo_ to the largest moblins hed leaving the biggest one for red and fired with one strike already the threat was reduced gt,0,0,True Negative
 how to remove browseraehijacker,0,0,True Negative
-mile backup on southaccident blocking the right lanes at exit langtree rdconsider nc or nc to nc as alternate,1,0,False Negative
+mile backup on southaccident blocking the right lanes at exit langtree rdconsider nc or nc to nc as alternate,1,1,True Positive
 merycormier haha exactly cosima is definitely in the hot seat lol its shay is no different from bomb that got exploded,0,0,True Negative
 batfanuk we enjoyed the show today great fun the emergency non evacuation was interesting have great run,0,0,True Negative
 eurocrisis guardian greeces tax revenues collapse as debt crisis continues as talks continue over proposed aa,1,1,True Positive
 im about to cook your smokey the bear saving forest fires face ass,0,1,False Positive
-uhijacker copsua back in the dock,1,0,False Negative
-poster ergo rotator cuff injury recovery kit super high converting rotator cuff inj,0,1,False Positive
+uhijacker copsua back in the dock,1,1,True Positive
+poster ergo rotator cuff injury recovery kit super high converting rotator cuff inj,0,0,True Negative
 if you dotish to blight your car go right ahead once its not mine,0,0,True Negative
 the pastor was not in the scene of the accidentwho was the owner of the range rover,1,1,True Positive
 the shooting or the airplane accident,1,1,True Positive
@@ -264,9 +264,9 @@ dogs lightning reshapes rocks at the atomic level lightning strike can reshape m
 these wild fires out west are crazy,1,1,True Positive
 almusafirah_ you feel trapped innit,0,0,True Negative
 traffic collision no injury at rd ave offramp south sac,1,1,True Positive
-chilli heat wave doritos never fail,0,0,True Negative
+chilli heat wave doritos never fail,0,1,False Positive
 zouma has just flattened him there cfc,0,0,True Negative
-random wind gust just came through gander probably some convection outflow havent heard any thunder yet but few spits of rain nlwx,1,0,False Negative
+random wind gust just came through gander probably some convection outflow havent heard any thunder yet but few spits of rain nlwx,1,1,True Positive
 rare insight into terror and how to fight it cameroon usa whitehouse es fr nigeria uk africa de ca au jp,1,1,True Positive
 omg omg omg justinbieber and harrystyles have collided in nuclear accident at cern oo harrybecareful,0,1,False Positive
 feel like deathholy molys,0,0,True Negative
@@ -279,7 +279,7 @@ just checked in uo at on fire on zomatoaus lovefood,1,1,True Positive
 calgary area tornado warnings end as thunderstorms move eastward cbcca cbcca calgary area tornado warnings endu_,1,1,True Positive
 jj_dirty mlstransfers greggmair oh gio was my backup but with skc next and bwp getting crack at nycfc injury went bwp lol wrong,0,0,True Negative
 families to sue over legionnaires more than families affected by the fatal outbreak of legionnaires disea,1,1,True Positive
-metro still doesnt know when blue amp orange lines will reopen empty passenger car derailed am not new series cqnow wmata,1,0,False Negative
+metro still doesnt know when blue amp orange lines will reopen empty passenger car derailed am not new series cqnow wmata,1,1,True Positive
 watch this airport get swallowed up by sandstorm in under minute,1,1,True Positive
 confirmed sanchez hazard and bolasie will be out for the rest of the season,1,0,False Negative
 thanks lot roadworks men cos tube strike wasnt disruptive enough so having to walk the desolate route from tottenham to,1,0,False Negative
@@ -311,9 +311,9 @@ irandeal most members of congress who dont want this deal dont have any kids who
 cherry print matching lipstick just rediscovered narsua uheat waveua by emilyschuman,0,0,True Negative
 abc parents of colorado theater shooting victim fear copycat massacre antioch,1,1,True Positive
 theeconomist step one get that mass murderers portrait off the yuan,0,0,True Negative
-the injuries are starting please dallascowboys stay healthy,0,0,True Negative
-unsuckdcmetro is the train halfderailed or halfrailed deepthoughts,1,0,False Negative
-that horrible sinking feeling when youuave been at home on your phone for while and you realise its been on this whole time,0,1,False Positive
+the injuries are starting please dallascowboys stay healthy,0,1,False Positive
+unsuckdcmetro is the train halfderailed or halfrailed deepthoughts,1,1,True Positive
+that horrible sinking feeling when youuave been at home on your phone for while and you realise its been on this whole time,0,0,True Negative
 specially modified to land in stadium and rescue hostages in iran in submitt aviationaddicts,1,1,True Positive
 gamefeed warcraft inspired mode likely hitting heroes of the storm lets go back to the beginning videogame,0,0,True Negative
 rated the hobbit the desolation of smaug imdb,0,0,True Negative
@@ -321,7 +321,7 @@ storm headed towards idaho falls with blowing dust amp winds to mph us hwy amp l
 flooding kills displace over one million in pakistan at least people have been killed and nearly lakhu_,1,1,True Positive
 flames_nation thats the optimistic side of me no doubt its tough but it can be done feel like the games will pivot on defense,0,0,True Negative
 gettinglost jennellensbb muncle_jim it said they had superficial wounds and it was the pepper spray that did the most damage,1,1,True Positive
-socialwots globi_inclusion rt nrc_middleeast sandstorm engulfs caravans and tents in the zaatari refugee camp u_,1,0,False Negative
+socialwots globi_inclusion rt nrc_middleeast sandstorm engulfs caravans and tents in the zaatari refugee camp u_,1,1,True Positive
 reddit will now quarantine offensive content technology technews puledo_tech_update,0,0,True Negative
 ctaztrophe everything must be ok because shes listening to sandstorm now,0,0,True Negative
 police teenagers arrested for curfew violations in evanston were riding stolen bicycles two teenagers taken into cus chicago news,1,1,True Positive
@@ -332,7 +332,7 @@ twelve feared killed in pakistani air ambulance helicopter crash,1,1,True Positi
 does this apply to muslimsterrorism or catholicismhomophobia,0,0,True Negative
 civilian casualties in afghanistan reach record high,1,1,True Positive
 obama declares disaster for typhoondevastated saipan obama signs disaster declaration for northern marians,1,1,True Positive
-thunderstorm in helsinki thunder lightning lightningstrike thunderstorm nature helsinkiu_,1,0,False Negative
+thunderstorm in helsinki thunder lightning lightningstrike thunderstorm nature helsinkiu_,1,1,True Positive
 vickie desert storm was an unqualified victory treaty was signed under clinton the situation only got worse and more violent tcot,1,1,True Positive
 bigsim nah philly pundits are half the cause they set buildings on fire to report on buildings being on fire,1,1,True Positive
 deep crew to help with california wild fires via thedayct,1,1,True Positive
@@ -364,16 +364,16 @@ new tropical cyclone is forming near guam once it is formed it will be called mo
 ancient mayan tablet found via,0,0,True Negative
 excessive engine failure rate significant maintenance constantly emerging structural defects phew thats lot say,0,0,True Negative
 this is the first year the forest service spent more than half its annual budget on fighting fires climatechange,1,1,True Positive
-imagine room with walls that are lava lamps,1,0,False Negative
+imagine room with walls that are lava lamps,1,1,True Positive
 imagini noi si clipuri the hobbit the desolation of smaug cliptv desolationofsmaug poze thehobbit,0,0,True Negative
 past the lane is reopened all other lanes are closed all lanes are open on the trash truck fire cleanup knx,1,1,True Positive
 check this deal sivan health and fitness basalt lava hot stone massage kit with pieceu_,0,0,True Negative
 is your team ready for natural disaster violent client or power outage contact ready vet to design,0,1,False Positive
 theres fly loose in my workspace with two bored cats forsee terrible things destruction badkitty thisiswhywecanthavenicethings,0,0,True Negative
 rt hirochii there is no country that making fun of hiroshima tragedy but korea indonesia malaysia jamaica u_,1,1,True Positive
-why tf did decide to workout today my body feels like its been engulfed by mass of fiery disdain,0,1,False Positive
+why tf did decide to workout today my body feels like its been engulfed by mass of fiery disdain,0,0,True Negative
 chillimik hushlegs haha are you really comparing yourselves to the emergency services thats brilliant talk about up your own arse,0,0,True Negative
-deb that catastrophe man opens school wanother hes an athlete not teacher principle not fulfilling any inside clerical duties,0,0,True Negative
+deb that catastrophe man opens school wanother hes an athlete not teacher principle not fulfilling any inside clerical duties,0,1,False Positive
 cant fix stupid mt cbccalgary dont drive through flooded underpasses warns city as it enacts municipal emergency plan yyc abstorm,1,1,True Positive
 beyonce is my pick for fan army beyhive,0,0,True Negative
 new_hart mudslide nuff said gbbo,1,0,False Negative
@@ -381,7 +381,7 @@ beastin tapas this evening with some good folk funtimes demolished,0,0,True Nega
 on the outside youre ablaze and alive but youre dead inside,0,0,True Negative
 plane debris discovered on reunion island belongs to flight mh uo malaysian pm,1,1,True Positive
 do you have plan emergency preparedness for families of children with special needs autism specialneeds,0,0,True Negative
-dopeitsval ahh youre bomb baby,0,0,True Negative
+dopeitsval ahh youre bomb baby,0,1,False Positive
 sirtitan mega mood swing on hr schedule isnt that how structural failure occurs,0,0,True Negative
 foxnewsinsider all obama is doing is giving false time schedule on iran testing there first bomb bomb nuclear suicide vest,0,1,False Positive
 ssp east says car aeg driven by young man collided with akrams carhot words were exchanged he did firing in airbullet hit tyre,1,1,True Positive
@@ -407,14 +407,14 @@ new mad max screenshots show off lovely dust storm combat magnum opus cogxbox xb
 alarming rise in dead marine life since the fukushima nuclear disaster,1,1,True Positive
 good thing there was actually just legit fire in the mall and nobody evacuated,1,1,True Positive
 yearold boy charged with manslaughter of toddler report an yearold boy has been charged with manslaughter over the fatal sh,1,1,True Positive
-training grains of wheat to bare gold in the august heat of their anger im the no trespass lest you seek danger,0,0,True Negative
+training grains of wheat to bare gold in the august heat of their anger im the no trespass lest you seek danger,0,1,False Positive
 uia voluntary evacuation is being recommended at this timeu for pickerel lake cabins across highway from reidlake fire says maca nwt yzf,1,1,True Positive
 brooktekle_ didnt look like murder scene just cops fire truck and fire assistance cars along with helicopter,1,1,True Positive
 telegraphworld lets hope its upper class white mass murderer mmmm,0,1,False Positive
 okgabby_ damn suh dont let that ruin your year bruh this our year better start carpooling like we did back in the day,0,0,True Negative
 mfalcon go look just blew it up atomic bomb,0,1,False Positive
 suelinflower there is no words to describe the physical painthey ripped you apart while you screamed for dear lifeits like been engulfed,0,0,True Negative
-un no more gujaratriot amp mumbairiot which devastated amp indianperpetrated by modi amp chawalchorbjp un_women unnewsteam,1,0,False Negative
+un no more gujaratriot amp mumbairiot which devastated amp indianperpetrated by modi amp chawalchorbjp un_women unnewsteam,1,1,True Positive
 jozerphine literally just look that up yeah derailed at smithsonian so everythign is shut down from federal center sw to mcpherson,1,1,True Positive
 new post people are finally panicking about cable tv,0,0,True Negative
 california man facing manslaughter charge in sundays wrongway fatal crash in ca,1,1,True Positive
@@ -425,7 +425,7 @@ god forbid anyone in my family knows how to answer phone need new emergency cont
 las vegas in top cities for redlight running fatalities,1,0,False Negative
 officially skipping out on fantasticfourfantsticwhatever the hashtag is its getting annihilated in reviews bummer,0,0,True Negative
 liked youtube video thorins thoughts riot and sandbox mode lol,0,0,True Negative
-parents are taking their kids to burning man and one year old thinks its better than,0,0,True Negative
+parents are taking their kids to burning man and one year old thinks its better than,0,1,False Positive
 learn how gained access to the secrets of the top earners amp used them to explode my home business here please rt,0,0,True Negative
 hereuas how media in pakistan covered the capture of terrorist mohammed naved,0,1,False Positive
 police officer wounded suspect dead after exchanging shots,1,1,True Positive
@@ -439,7 +439,7 @@ passengers evacuated amp lanes blocked off as power lines come down over gold co
 think that none of us know the impact we have on the lives of those around us even the slightest stirring can create violent storm,0,1,False Positive
 dont stop believing just came on the radio at this restaurant and lil white bit screamed its mommys song,0,0,True Negative
 new giant flames giant full black pantofel infoorder sms pin pictwittercompnpizody,1,0,False Negative
-spokane authorities say theyre struggling to solve arson cases like todays on hamilton,1,0,False Negative
+spokane authorities say theyre struggling to solve arson cases like todays on hamilton,1,1,True Positive
 truck ablaze voortrekker ave outside or tambo intl cargo section,1,0,False Negative
 rgj truck trailer catches fire in reno,1,1,True Positive
 accident center lane blocked in santaclara on us nb before great america pkwy bayarea traffic,1,1,True Positive
@@ -465,7 +465,7 @@ nowplaying cliff richard could easily fall in love with you amp shadows internet
 disaster averted police kill gunman with hoax device at cinema via foxnews,1,1,True Positive
 whirlwind medusa audio snake microphone inputs returns ft,1,0,False Negative
 earthquake sismo km of anchorage alaska time utc,1,1,True Positive
-small bag from the bottom the wounded hero shakes it senzu bean falls from it gohanuas surprised shakes the pouch once more but,0,0,True Negative
+small bag from the bottom the wounded hero shakes it senzu bean falls from it gohanuas surprised shakes the pouch once more but,0,1,False Positive
 my chemical romance uo desolation row np,0,0,True Negative
 cdc has pretty cool list of all bioterrorism agents,1,0,False Negative
 thatwitchem emmachosenone jessienovoarp jessie_novoa_ liana_novoa why you screamed,0,0,True Negative
@@ -474,15 +474,15 @@ wall of noise is one thing but wall of dust moving at mph how to not get blown a
 new warning for central hills hail mph winds not affecting sturgis but could later tonight kotaweather,1,1,True Positive
 what goooooooaaaaaal,0,0,True Negative
 worldnews fallen powerlines on glink tram update fire crews have evacuated up to passengers who were tr,1,1,True Positive
-good way to end the day geyser plus dust storm,1,0,False Negative
+good way to end the day geyser plus dust storm,1,1,True Positive
 rockbottomradfm as kid remember hearing rules about to days wo defense and youre stripped brock obliterated that,0,0,True Negative
 wrecked an hour on youtube with julian_lage grantgordy amp rossmartin and now its practice time again,0,0,True Negative
-the finnish hip hop pioneer paleface will be rescued from drifting raft and brought into the container later enkelbiljett menolippu,0,0,True Negative
+the finnish hip hop pioneer paleface will be rescued from drifting raft and brought into the container later enkelbiljett menolippu,0,1,False Positive
 lets not forget our wounded female veterans,1,0,False Negative
 dust storm en route from alice springs to uluru,1,1,True Positive
 floored flattened early birds does get de cups so lag bout pun de dock and watch ppl drinku_,0,0,True Negative
 annihilated in damascus syrian army grinds ualloosh and his gang into the manure pile,1,0,False Negative
-plane from new york to kuwait diverts to uk after declaring state of emergency,1,0,False Negative
+plane from new york to kuwait diverts to uk after declaring state of emergency,1,1,True Positive
 like the weird ones like rain of mystical or windstorm or ocean waves,0,0,True Negative
 set some goals then demolish them fitness inspiration,0,0,True Negative
 there was loud bang outside earlier and check to find my dad on the floor after the chair he was sitting on broke,0,0,True Negative
@@ -492,7 +492,7 @@ the twins pitchers ego is now wrecked,0,0,True Negative
 broke my nailreal not fake this morning blood and all ah it hurts any ideas how to treat it help me pretty please,0,0,True Negative
 why put out fire thats still burning,0,0,True Negative
 police assailant in latest us movie theatre attack was homeless had psychological issues,1,1,True Positive
-chaosmagician awesome saw he was bleeding pretty bad,0,1,False Positive
+chaosmagician awesome saw he was bleeding pretty bad,0,0,True Negative
 wreckage conclusively confirmed as from mh malaysia pm investigators and the families of those who were,1,1,True Positive
 best movie youve ever seen armageddon,0,0,True Negative
 wholesale we gon rep that hit at all costs hazardous wholeteam wholesaleent,0,1,False Positive
@@ -516,8 +516,8 @@ lifestyle uit makes me sickua baby clothes deemed uhazardua,0,0,True Negative
 if faved that hope you fall off cliff,0,0,True Negative
 its like god wants me to become mass murderer with how many dickheads have to deal with on daily basis,0,0,True Negative
 hellfire is surrounded by desires so be careful and donuat let your desires control you afterlife,1,0,False Negative
-day bug in fully patched os comes under active exploit to bypass password ars technica,0,0,True Negative
-so this storm just came out of no where fuck me its cool,1,0,False Negative
+day bug in fully patched os comes under active exploit to bypass password ars technica,0,1,False Positive
+so this storm just came out of no where fuck me its cool,1,1,True Positive
 hate when im trying to straighten my hair and my brother comes swooping in behind me and scares me just burned my finger,0,0,True Negative
 am boy crash_______,0,1,False Positive
 years after atomic bombs japan still struggles with wartime past the anniversary of the devastation wroug,1,1,True Positive
@@ -525,7 +525,7 @@ deedee_casey been on tour in the day to hellfire caves would love to investigate
 severe thunderstorms and flash flooding possible in the midsouth and midwest weather environment climate nature,1,1,True Positive
 breaking obama declares disaster for typhoondevastated saipan obama signs disaster declarat acenewsdesk,1,1,True Positive
 deosl xavier_marquis hostages are meaningless might as well just play cod search and destroy,0,0,True Negative
-volcano_tornado live somewhere else for while and da mill aint too bad son perspective,1,1,True Positive
+volcano_tornado live somewhere else for while and da mill aint too bad son perspective,1,0,False Negative
 former township fire truck being used in philippines township of langley assistant fire chief pat walker spen,1,1,True Positive
 afghanistan sharp rise in women and children casualties in first half of,1,1,True Positive
 party for bestival crash victim michael molloy on what would have been his st,1,1,True Positive
@@ -534,9 +534,9 @@ two great dawgs dak and jak hail state,0,0,True Negative
 duchovbutt starbuck_scully madmakny davidduchovny yeah we survived seasons and movies lets hope for the good theres hope,0,0,True Negative
 tr_jdavis bruh you wanna fight im down meet me in the cage bro better find out who youre dealing with before you end up in body bag,0,0,True Negative
 nro except when ordered not to carry unauthorized weapons while on duty or in military uniforms thats the rule fool,1,0,False Negative
-egyptian militants tied to isis threaten to kill croatian hostage new york times gmt,1,0,False Negative
+egyptian militants tied to isis threaten to kill croatian hostage new york times gmt,1,1,True Positive
 eruption of indonesian volcano sparks transport chaos in this picture done from video mount raung inu_,1,1,True Positive
-new item pillow covers any size pillow cover grey pillow pillows premier prints lulu storm grey by mypillowstudio u_,0,0,True Negative
+new item pillow covers any size pillow cover grey pillow pillows premier prints lulu storm grey by mypillowstudio u_,0,1,False Positive
 wasp just dive bombed my face,0,0,True Negative
 nick williams just hit another bomb just crushed it,0,1,False Positive
 to all the meatloving feminists of the world riot grill hasaearrived,0,0,True Negative
@@ -549,18 +549,18 @@ trains derailment its the freakiest of freak accidents the indian express news t
 ppl like unu feast today and famine tomorrow,0,0,True Negative
 food crematoria provoke outrage amid crisis famine memories,1,1,True Positive
 fear factory cars official musicvideo,0,1,False Positive
-spicybreads coxytown tried downloading it and it crashed after the tutorial,0,0,True Negative
+spicybreads coxytown tried downloading it and it crashed after the tutorial,0,1,False Positive
 juneau empire first responders turn out for national night out,0,0,True Negative
 wreckage conclusively confirmed as from mh malaysia pm investigators and the families of those who were,1,1,True Positive
-jeff locke train wreck fin disaster fortunately the pirates acquired top quality starter in ja oh wait blowltan,1,0,False Negative
+jeff locke train wreck fin disaster fortunately the pirates acquired top quality starter in ja oh wait blowltan,1,1,True Positive
 as result of heavy rains in bangladeshaffected lands are inundated by flood watersland looks like rivers at high tide bangladeshflood,1,1,True Positive
 its even worse than it looks how the american constitutional system collided with the new politicu_,0,0,True Negative
 my quora answer to why do my answers get collapsed when others dont,0,0,True Negative
-it starts forest fire that cannot be put out,1,0,False Negative
+it starts forest fire that cannot be put out,1,1,True Positive
 deputies man shot before brighton home set ablaze,1,1,True Positive
 thatsabinegirl you get me sis this planet could do with huge dose of obliteration,1,0,False Negative
 evildead annihilation of civilization,0,0,True Negative
-of oil and gas organizations have no realtime insight on cyber threats see how ey can help,0,1,False Positive
+of oil and gas organizations have no realtime insight on cyber threats see how ey can help,0,0,True Negative
 thought the loudest goal ever screamed was higuains offside goal against germany,0,0,True Negative
 hot funtenna hijacking computers to send data as sound waves black hat prebreak best,1,0,False Negative
 im an emotional wreck right now,0,0,True Negative
@@ -625,14 +625,14 @@ trustymclusty no passengers were on the derailed train but the who morning commu
 uriminzok the coming catastrophe of the destruction of the puppet republic half naemolgo continue to firmly support yiraneuni and against,0,0,True Negative
 my last two weather pics from the storm on august nd people packed up real fast after the temp dropped and winds picked up,1,1,True Positive
 people displaced after alarm fire tore through apartment buildings on second street in manchester mht,1,1,True Positive
-westminister sr knott st trfc collisionno inj,1,0,False Negative
+westminister sr knott st trfc collisionno inj,1,1,True Positive
 the fake of nanking massacre eyewitnesses english obama clinton bush gop abc cbs bbc cnn wsj wpo,1,1,True Positive
 how would have survived without the mute option on whatsapp,0,0,True Negative
 regress and slip and fall off that cliff,0,0,True Negative
 mercury cyclone gt hood moulding very nice core cobra jet cj gt,0,1,False Positive
 the cryptic words that guided pilots on the hiroshima bombing mission,1,1,True Positive
-salvation army hosts rally to reconnect fathers with children the salvation army is hosting back to school rallyu_,1,0,False Negative
-dnb newrelease edge jimmy summer rainstorm lapaka sounds via,0,0,True Negative
+salvation army hosts rally to reconnect fathers with children the salvation army is hosting back to school rallyu_,1,1,True Positive
+dnb newrelease edge jimmy summer rainstorm lapaka sounds via,0,1,False Positive
 check these out nsfw,0,0,True Negative
 anyone travelling aberystwythshrewsbury right now theres been an incident services at halt just outside shrews ambulance on scene,1,1,True Positive
 boulder deputies are waiting for the bomb squad to detonate grenade like this one found in stearns lake today,1,1,True Positive
@@ -641,7 +641,7 @@ visting georgina at the drowned rat cafeawful view,1,0,False Negative
 my prediction for the vikings game this sundaydont expect whole lot infact think zimmer goal isinjury free st game,1,0,False Negative
 dating meet sex hot teen ass exploded by fat cock,0,0,True Negative
 bicyclesuv accident in mesick police say that the bicyclist entered onto west and collided with boat,1,1,True Positive
-back from seattle tacoma and portland whirlwind,1,0,False Negative
+back from seattle tacoma and portland whirlwind,1,1,True Positive
 fyi cadfyi accident property damagewpd th st,1,1,True Positive
 wen finally get the girl want im flooding yall wit all pics of us rs tho,0,0,True Negative
 drmartyfox in the us government and libs made evil good and good evil we will reap the whirlwind lord have mercy on us,0,0,True Negative
@@ -664,7 +664,7 @@ arianagrande justinbieber omgggg im screaming,0,0,True Negative
 kick hendrixonfire blackcats big noob conquest mixed maps all weapons for violated kdr limit server max,0,0,True Negative
 brookesddl am traumatised the lil shit nearly hopped in the bloody shower with me,0,0,True Negative
 aircraft debris found on island is from mh malaysia confirms,1,1,True Positive
-this is one violent and belligerent storm im enjoying watching it unfold,1,0,False Negative
+this is one violent and belligerent storm im enjoying watching it unfold,1,1,True Positive
 metal cutting sparks brush fire in brighton brush fire that was sparked by landowner cutting metal burned u_,1,1,True Positive
 got evacuated from the cinema mins through inside out kill me please,0,1,False Positive
 mh debris found on reunion island sad tragedy innocent crash mh,1,1,True Positive
@@ -679,12 +679,12 @@ slikrickdarula drake really body bagging peeps man he really bout it,0,0,True Ne
 one direction is my pick for fan army directioners,0,0,True Negative
 igers words that wrecked disneys stock,0,0,True Negative
 jay and alexis broke up there goes all your faith and goals people evacuate yourself,0,0,True Negative
-new illustration for the la times illustration subway,0,0,True Negative
+new illustration for the la times illustration subway,0,1,False Positive
 the drowning girl by caitlin kiernan centipede press signed numbered limited full reu_,0,0,True Negative
 nazi mass murderer became chairman at vaccine drug company in,1,1,True Positive
 diageos ceo stresses that board revolt at united spirits has not impacted indian operations,0,0,True Negative
 blending the old with the new in vanuatu to prepare for future emergencies,0,0,True Negative
-excited for cyclone football,0,1,False Positive
+excited for cyclone football,0,0,True Negative
 malaysian officials say debris found on reunion island is from mh billneelynbc reports,1,1,True Positive
 rachelcaine the weatherit needs to make it minds up first snow tornadoes now would you say heat wave,1,0,False Negative
 upheaval high note for bush opera sydney news aus,0,1,False Positive
@@ -706,28 +706,28 @@ you wrecked my whole world,0,0,True Negative
 rt nasasolarsystem jupiters red spot is violent storm larger than the entire earth,0,1,False Positive
 bleachers entire set has been one big game of the stage is lava,0,0,True Negative
 dirk_nomissski yea but if someone faints why are they panicking thats basic stuff,1,0,False Negative
-zaynmaiikist listen to hurricane,1,1,True Positive
+zaynmaiikist listen to hurricane,1,0,False Negative
 see the yr old pkk suicide bomber who detonated bomb in turkey army trenchu_ via msoreo_,1,1,True Positive
 xdescry was wrong to call it trusty actually considering it spontaneously collapsed on me thats not very trusty,1,0,False Negative
 denver co insurance job claims property field adjuster catastrophe safeco uo usa at liberty mutual insurance,0,0,True Negative
 cars collide crashes into building two cars collided at an intersection and that sent one vehicle crashingu_,1,1,True Positive
 drones under fire officials offer reward leading to pilots who flew over wildfire photography arts,1,1,True Positive
 flood advisory in effect for shelby county in al until pm alwx,1,1,True Positive
-buyout giants bid to derail abn worldpay ipo uo skyaenews,0,0,True Negative
+buyout giants bid to derail abn worldpay ipo uo skyaenews,0,1,False Positive
 hes being put on stretcher dont want to see that,0,0,True Negative
 wish that the earth sea and sky up above would send me someone to lava,0,0,True Negative
-flat out bomb by flavafraz whatcanthedo,0,0,True Negative
+flat out bomb by flavafraz whatcanthedo,0,1,False Positive
 russian food crematoria provoke outrage amid crisis famine memories moscow reuters russian government,1,1,True Positive
 mexico construction of bridge collapse killsaeone,1,1,True Positive
 grade in black horse faminemega score dynamix,0,0,True Negative
 hellfire is surrounded by desires so be careful and donuat let your desires control you afterlife islam,0,0,True Negative
 okay the cat has been quarantined in my bathroomits meowing really loud but turned up the tv louderthings just might work out okay,0,0,True Negative
-wild fires freak me the fuck out like hell no,1,0,False Negative
-if truckload of soldiers will be blown up nobody panics but when one little lion dies everyone loses their mind,1,0,False Negative
+wild fires freak me the fuck out like hell no,1,1,True Positive
+if truckload of soldiers will be blown up nobody panics but when one little lion dies everyone loses their mind,1,1,True Positive
 im just going to say it under the new reddit policy changes think rconspiracy will be quarantined and how thats bad for the truth mu_,0,0,True Negative
 tweetlikeitsseptemberth those two buildings are on fire,1,1,True Positive
 fkhanage look what shad forsythe has done in year we wont have as many injuries as before we will inevitably have injuries like others,0,0,True Negative
-justicemalala nkeajresq nkea destroyed lives in gambia as mercenary judge,0,0,True Negative
+justicemalala nkeajresq nkea destroyed lives in gambia as mercenary judge,0,1,False Positive
 bigrigradio live accident awareness,1,0,False Negative
 unwanted person at block of se th ave portland or portland police pp pdx,0,1,False Positive
 womens buckle casual stylish shoulder handbags pockets cross body bags green,0,0,True Negative
@@ -740,13 +740,13 @@ brace yourself samaritans by sunday evening you will inundated with thousands of
 arianagrande screamqueens katherines death,0,0,True Negative
 uribe demolished that ball,0,0,True Negative
 tornado flew around my room before you came,0,0,True Negative
-new nanotech device will be able to target and destroy blood clots,0,0,True Negative
+new nanotech device will be able to target and destroy blood clots,0,1,False Positive
 floods fishing finally sunshine amp fab deals from albertsons anniversary sale lauren paints beautiful life,0,0,True Negative
 the windstorm blew thru my open window and now my bong is in pieces just another example of natures indifference to human suffering,0,0,True Negative
 contd sinjar referring to pg document the group put together on the movt of yazidi hostages in the days following is massacre,1,1,True Positive
 hijacking electric skateboards to make them saferae scoopit,0,0,True Negative
 short of throwing them overboard himself dont think any other leader could do much worse by refugees than tonyabbottmhr worst pm ever,1,0,False Negative
-watching it go up in flames,1,1,True Positive
+watching it go up in flames,1,0,False Negative
 canagal good to hear its back that storms been given you guys trouble though sj,1,0,False Negative
 bbcmtd wholesale markets ablaze,1,0,False Negative
 cyclist who collided with runner on roanoke greenway wins civil verdict roanoke times cyclist who,1,0,False Negative
@@ -757,14 +757,14 @@ various issues fail to derail homes bid,0,1,False Positive
 airplane crashes on house in colombia people die in accident,1,1,True Positive
 today is the day hiroshima got atomic bomb years ago the sanitised narrative of hiroshimas atomic bombing,1,1,True Positive
 deeeznvtzzz bring the body bags tho,0,0,True Negative
-fr cuz risk being electrocuted every shower,0,1,False Positive
+fr cuz risk being electrocuted every shower,0,0,True Negative
 rt notexplained the only known image of infamous hijacker db cooper,0,1,False Positive
 read this already in but it was and remains one of my favorite articles ever letuas like demolish laundry,0,0,True Negative
 chojo everyone hail to the pumpkin king,0,0,True Negative
 mcfadden reportedly to test hamstring thursday via teamstream,0,0,True Negative
 nema warns nigerians to prepare for drought,1,1,True Positive
 when was cooking earlier got electrocuted some crucial now im psychic lol,0,0,True Negative
-im on fire,0,1,False Positive
+im on fire,0,0,True Negative
 more than families affected by the fatal outbreak of legionnaires disease in edinburgh are to sue two comp,1,1,True Positive
 why do ruin everything tarbox ruined the sour cream and put brick of cheese in the freezerdummy,0,0,True Negative
 royalcarribean do your passengers know about the mass murder that takes place in the faroeislands every year,1,1,True Positive
@@ -798,13 +798,13 @@ almost sent my coworker nudes on accident thank god for airplane mode,0,0,True N
 want some tsunami take out,0,0,True Negative
 mzgraciebaby for the record im jumpin out the window early got officialrealrap body bagging luck lol save the file,0,0,True Negative
 mom we didnt get home as fast as we wished me why is that mom there was an accident and some truck spilt mayonnaise all over,0,0,True Negative
-forbes chinas stock market crash are there gems in the rubble chinauas stock market crash this summer ha,0,0,True Negative
+forbes chinas stock market crash are there gems in the rubble chinauas stock market crash this summer ha,0,1,False Positive
 slayer reflects on low mayhem festival attendance king diamond amp jeff hannemans passing,0,0,True Negative
 update bend fd says roofing co workers accidentally cut through natural gas line in post office leading to evacuation for about halfhr,1,1,True Positive
 info baekhyun and suho will be attending the idol sports championship on august th cr syjexo,0,1,False Positive
 angry woman openly accuses nema of stealing relief materials meant for idps an angry internally displaced wom,0,1,False Positive
 raynbowaffair editor in chief diamondkesawn releases issue of ramag fashion models and mayhem,0,0,True Negative
-trust us to get rescued by the dopey ones emmerdale summerfate,0,0,True Negative
+trust us to get rescued by the dopey ones emmerdale summerfate,0,1,False Positive
 pydisney que crushmtvhottest justin bieber,0,0,True Negative
 nbcnightlynews malaysian officials say debris found on reunion island is from mh billneelynbc reports,1,1,True Positive
 large sinkhole swallows entire pond in lowndes county georgia large sinkholeu_ occasionb,1,1,True Positive
@@ -813,13 +813,13 @@ tunes_wgg lol got wrecked,0,0,True Negative
 twilightfairy flattened frog,0,0,True Negative
 check out ameribag healthy back bag shoulder cross body backpack khaki tan beige nylon ebay,0,0,True Negative
 one man fatally shot another wounded on vermont street buffalo,1,1,True Positive
-children in myanmar face double catastrophe as floods hit the most,1,0,False Negative
+children in myanmar face double catastrophe as floods hit the most,1,1,True Positive
 free ebay sniping rt chevrolet avalanche ltz lifted truck please favorite amp share,0,0,True Negative
 police man killed ex grandmother after son wasnampt named after him omg absolutely crazy,1,1,True Positive
 may allah help all those suffering from the pakistan floods you and your families are in our dua,1,1,True Positive
-bst traffic agtparis geneva mons hamburg agthanover karlsruhe gotthard nb,1,0,False Negative
+bst traffic agtparis geneva mons hamburg agthanover karlsruhe gotthard nb,1,1,True Positive
 tension in bayelsa as patience jonathan plans to hijack apc pdp,1,1,True Positive
-house energy ampamp commerce subcommittee to hold hearing of cdc oversight of bioterror labs army anthrax mishaps httu_,1,0,False Negative
+house energy ampamp commerce subcommittee to hold hearing of cdc oversight of bioterror labs army anthrax mishaps httu_,1,1,True Positive
 updateme confirms women pulled from burning house died last friday yr old edna jeffersonampdoris sherfield,1,1,True Positive
 update indiana state police reopening near lafayette following emergency bridge repairs that closed key highway for about hours,1,1,True Positive
 its lights out again with stagetwo load shedding stagetwo load shedding will be in force between pm and pm,0,0,True Negative
@@ -829,13 +829,13 @@ can still see itblank expressioncheeks clapping in my facemarvins room playing s
 christian attacked by muslims at the temple mount after waving israeli flag via pamela geller,1,1,True Positive
 interesting approach but doesnt replace eyewitness video the ferguson case video,1,0,False Negative
 cvinch_waow thank you drove by the mayhem how scary stacy,0,0,True Negative
-will adamantly opposed to nuclear weapons,1,0,False Negative
+will adamantly opposed to nuclear weapons,1,1,True Positive
 food crematoria in russia provoke outrage amid crisis famine memories,1,1,True Positive
 the latest more homes razed by northern california wildfire,1,1,True Positive
-thus making femalegilgameshs assault useless the spears collided with the dark force however did not penetrate due to the dark,0,0,True Negative
+thus making femalegilgameshs assault useless the spears collided with the dark force however did not penetrate due to the dark,0,1,False Positive
 blazerfan not everyone can see ignoranceshe is latinoand that is all she can ever benothing morebut an attack dog hate group gop,0,0,True Negative
 behindashield wars_goddess sweet lord collapse as my knees buckle,0,0,True Negative
-see fire,0,1,False Positive
+see fire,0,0,True Negative
 totoooooo totoooooooooo historicalmages dust storm approaching stratford texas th april,1,1,True Positive
 bomairinge elutranscendent straight body bagging,0,0,True Negative
 san bernardino eo redlands blvd trfc collisionno inj,0,1,False Positive
@@ -851,7 +851,7 @@ amaramin meek is definitely capable of body bagging his ass on the track drake w
 the dress memes have officially exploded on the internet,1,0,False Negative
 cap the drive act represents the failure of senate republicans to address the structural shortfalls plaguing the highway trust fund,0,0,True Negative
 sayn_ae angel or arson,0,0,True Negative
-photo boyhaus heaven sent by jakeae uiafter very warm morning on montanauas madison river early evening,0,1,False Positive
+photo boyhaus heaven sent by jakeae uiafter very warm morning on montanauas madison river early evening,0,0,True Negative
 strict liability in the context of an airplane accident,1,1,True Positive
 bad news for us china russia bolstering military cooperation in asia sputnik international via sputnikint,0,1,False Positive
 we was all just laughing and talking junk now everyone in panic mode,0,0,True Negative
@@ -879,33 +879,33 @@ man why hasnt machinegunkelly blown up hes still underground,0,0,True Negative
 plains all american pipeline company may have spilled more crude oil than previously estimated ksbynews lilitan,1,1,True Positive
 funds needed for rescued then abandoned cocker spaniels,0,1,False Positive
 myanmar displaced rohingya at sittwe point of no return prisonlike conditionsprivation,1,1,True Positive
-this fire is way too close wtf is going on,1,0,False Negative
+this fire is way too close wtf is going on,1,1,True Positive
 did another one did another one you still aint done shit about the other one nigga body bagging meek,1,0,False Negative
 manuel hoping for an early buffalo snowstorm so his accuracy improves,1,0,False Negative
 utckm nnw of lake henshaw california,1,1,True Positive
-doves the storm greatest denier electric proms pt,1,0,False Negative
+doves the storm greatest denier electric proms pt,1,1,True Positive
 nasa announced that massive solar storm is headed straight for us,1,1,True Positive
-stephaniemarija light rain was the forecast based my dressing on light rain not incessant deluge,0,1,False Positive
+stephaniemarija light rain was the forecast based my dressing on light rain not incessant deluge,0,0,True Negative
 think typhoon just passed through here lol,1,1,True Positive
 shirley caesar windstorm nowplaying listenlive,0,0,True Negative
 corey robinson having some solid reps at rt although as type this he got beat on lightning dip by walker,0,0,True Negative
 cindy noonancindynoonanheartbreak in baltimore rioting yahistorical undergroundrailraod,0,1,False Positive
 north sac elkhorn blvd walerga rd trfc collision enrt,1,1,True Positive
 strongly condemn attack on ary news team in karachi cowardly act against those simply trying to do their job,1,0,False Negative
-rt truediagnosis deaths per year from physician error how to avoid being one of them,1,0,False Negative
+rt truediagnosis deaths per year from physician error how to avoid being one of them,1,1,True Positive
 im slightly traumatised after this weeks one born,0,0,True Negative
 efs star wars and star trek collide on pluto moon charon pluto,0,0,True Negative
 fall off cliff please,1,0,False Negative
 reddit will now quarantine offensive content reddit cofounder and ceo steve huffman has unveiled more specif,0,0,True Negative
 chinauas stock market crash this summer has sparked interest from bargain hunters and bulls betting on rebound du_,0,1,False Positive
-soap and education are not as sudden as massacre but they are more deadly in the long run mark twain,0,0,True Negative
+soap and education are not as sudden as massacre but they are more deadly in the long run mark twain,0,1,False Positive
 apollo brown ft mop detonate,1,0,False Negative
 learning from the legacy of catastrophic eruption the new yorker,1,1,True Positive
 caixxumsos thanks for the damn heart attack,0,1,False Positive
 detonation fashionable mountaineering electronic watch waterresistant couples leisure tabu_,0,0,True Negative
 jagexhelpdibi update jag enabled but hijacker has access might be what was looking for fingers crossed,0,0,True Negative
 im sinking down in the darkest dream so deep so cold this pain inside of me my love for you is more dan can bear jota esse,0,0,True Negative
-realdonaldtrump rushlimbaugh its proof democrats are afraid of trump clintons are trying to derail trump the meddling,0,0,True Negative
+realdonaldtrump rushlimbaugh its proof democrats are afraid of trump clintons are trying to derail trump the meddling,0,1,False Positive
 only had crush on one girl in high school and she dont even realize it lol,0,0,True Negative
 annihilating quarterstaff of annihilation,1,0,False Negative
 nar phuket ultimate preparedness library prepare yourself for any catastrophe over,1,0,False Negative
@@ -918,7 +918,7 @@ liked youtube video from sqwizzix call of duty uithe piano entertaineru ep uo mu
 lightning_wolf_ you really have activity directory,0,0,True Negative
 keep sneezing either someone placed southern dust storm in my house or someone talkin smack,0,1,False Positive
 just demolished snowball,0,0,True Negative
-ill only dm hotel info because people are flooding my notifications asking me for info,0,0,True Negative
+ill only dm hotel info because people are flooding my notifications asking me for info,0,1,False Positive
 more than crush wce nykaed_,0,0,True Negative
 reasons why we love women in the military lulgzimbestpicts,0,0,True Negative
 rated catastrophe imdb hilarious,0,0,True Negative
@@ -941,7 +941,7 @@ still and box alarm for the train derailment at st and calumet struck out on the
 photos the rocky fire has grown into californias most destructive wildfire this year,1,1,True Positive
 that took way longer than expected,0,0,True Negative
 gtgt gidiexclusixe shock in aba as woman delivers ufacelessua baby photo there was pandemonium bennycapricon,0,0,True Negative
-the year is and the national society of meme preservation has opened the first museum where memes and their origins are displaced,0,0,True Negative
+the year is and the national society of meme preservation has opened the first museum where memes and their origins are displaced,0,1,False Positive
 charminar demolish if it in falling state anyway take engineers opinion telangana,0,0,True Negative
 stephen_georg hey stephen remember that time you drowned all the yellows read,0,0,True Negative
 this is interestingwhy did god order obliteration of ancient canaanites via worldnetdaily,0,0,True Negative
@@ -950,7 +950,7 @@ obama declares disaster for typhoondevastated saipan obama signs disaster declar
 what feat watch the bts of kallemattsons incredible music video for avalanche,0,0,True Negative
 they sky was ablaze tonight in los angeles im expecting ig and fb to be filled with sunset shots if know my peeps,0,0,True Negative
 morgan silver dollar gem bu dmpl cameo rev blazing ms high grade full read u_,0,0,True Negative
-abe government said the missiles were not weapon so jsdf could provide them to the ally when collective self defense right was exercised,1,1,True Positive
+abe government said the missiles were not weapon so jsdf could provide them to the ally when collective self defense right was exercised,1,0,False Negative
 mechamacgyver wow bet you got blamed for that too huh,0,0,True Negative
 gop debate drinking game for anyone looking for bit of fun while watching this train wreck,0,0,True Negative
 pixeljanosz angelheartnight remember now there was british man who survived both also cant remember his name though,0,0,True Negative
@@ -969,10 +969,10 @@ pilot dies in plane crash at car festival via youtube crash aircraft airplane pi
 just burned the crap out of my grilled cheese sandwich sure wish had few life skills figured out by now,0,0,True Negative
 the few warned about were just as expected they are threat to his soul,0,0,True Negative
 might buy my esoteric weapon for astrologian,0,0,True Negative
-sinkhole selfies you wont believe whats in the brooklyn sinkhole sinkhole selfies you wont belie,0,0,True Negative
+sinkhole selfies you wont believe whats in the brooklyn sinkhole sinkhole selfies you wont belie,0,1,False Positive
 potus you until you drown by water entering the lungs you being alive has caused this great country to fall to shit because youre pussy,0,0,True Negative
 israel continues its demolition of palestinian homes gop potus irandeal isis,1,1,True Positive
-liked youtube video fema region iii targeted for bioterrorism nasa japan rocket launch with lithium,1,1,True Positive
+liked youtube video fema region iii targeted for bioterrorism nasa japan rocket launch with lithium,1,0,False Negative
 going to go drown my sorrows with sad music brb,0,0,True Negative
 rt kotowsa south sudanuas war on women survivors say rape has become just normal thing,1,1,True Positive
 doctorfluxx stefanejones spinnellii themermacorn no burning buildings and rob during riot thats embarrassing amp ruining this nation,1,1,True Positive
@@ -998,19 +998,19 @@ skarletan ac the storm violent swell of emotions then nothing,0,1,False Positive
 severe tstorm warning for union county pm top threats include heavy rain lightning amp damaging winds,1,1,True Positive
 aftershock,0,0,True Negative
 if youre gonna take break at work you gotta do it right carlilescanoelivery lovemyjob,0,0,True Negative
-the more listen to it the more believe casualties of cool is one of the best albums there ever was,0,1,False Positive
+the more listen to it the more believe casualties of cool is one of the best albums there ever was,0,0,True Negative
 crowtherjohn effiedeans you just keep ur head in the sand john the best place for it lbr after landslide couldnt imagine situ now,0,0,True Negative
 enjoying little golf this summer take care to avoid injury back and shoulder injuries can happen quickly,1,0,False Negative
 equipment ego break upon dig your family internet hoke excepting versus sinking term dfljev,1,0,False Negative
 sophiewisey couldnt mudslide,1,0,False Negative
-to fight bioterrorism sir,0,0,True Negative
+to fight bioterrorism sir,0,1,False Positive
 adorableappple no reported flooding po in the area ten mmda,0,1,False Positive
 deldryden if press on the twitch will my head explode,0,0,True Negative
 earthquake drill,0,1,False Positive
 mumbaix helping hand in mumbai ttes take charge of helpline to calm anxious relatives the ind mumbai,1,1,True Positive
 small flood with bigaeconsequences,1,1,True Positive
 apollo brown uo detonate ftaemop,0,0,True Negative
-chinas stock market crash are there gems in the rubble,0,0,True Negative
+chinas stock market crash are there gems in the rubble,0,1,False Positive
 hw going dude was keeping up with me took the same exit pulled to the side and told me he blew his motor lolol fastfurious,0,0,True Negative
 cochisecollege for the people who died in human experiments by unit of japanese military,1,1,True Positive
 tanstaafl its not an impulse and it doesnt end in mass murder correlation does not imply causation,1,1,True Positive
@@ -1048,7 +1048,7 @@ if gop want to destroy america then obama is dilutional should be institutionali
 do your own thing the battle of internal vs external motivation,0,0,True Negative
 kabwandi_ breaking news unconfirmed just heard loud bang nearby in what appears to be blast of wind from my neighbours ass,0,0,True Negative
 honestly tho modibo maiga is stealing living fuck all about him im past my best but still more of danger than that fucktard coyi,1,0,False Negative
-im setting myself up for disaster,0,0,True Negative
+im setting myself up for disaster,0,1,False Positive
 uiparties and body bags go together like drinking and drivingu,0,0,True Negative
 reddit will now quarantine offensiveaecontent,1,0,False Negative
 crush content marketingaemediocrity,0,0,True Negative
@@ -1077,20 +1077,20 @@ stay tuned or dont idc casualties,0,1,False Positive
 nuclear reactor is like woman you just have to read the manual and press the right button,0,0,True Negative
 nowplaying rock you like hurricane scorpions,0,0,True Negative
 the city has activated the municipal emergency plan primarily stay indoors avoid flooded areas call for,1,1,True Positive
-wanna set some shit on fire,1,1,True Positive
+wanna set some shit on fire,1,0,False Negative
 natalie stavola our costar explains her role in love and hostages check it out lh_movie indiefilm comingsoon,0,0,True Negative
-that horrible sinking feeling when youuave been at home on your phone for while and you realise its been on this whole time,1,1,True Positive
+that horrible sinking feeling when youuave been at home on your phone for while and you realise its been on this whole time,1,0,False Negative
 rokiieee_ the game has officially collapsed,0,0,True Negative
 zotar skeleton alchemist was electrocuted to death by atamathon the giant golem on golem graveyard,1,1,True Positive
 watch this airport get swallowed up by sandstorm in under minute,1,1,True Positive
 some days drown in my tears but dont let it get me down,0,0,True Negative
 so all the stores fire alarms went off today at work and we had to evacuate was like omg isis its happening,1,1,True Positive
 ml sicily italy euroquake,0,1,False Positive
-myanmars president urged people to leave lowlying southern delta region on thursday with rain water that has inundated much of the counu_,1,1,True Positive
+myanmars president urged people to leave lowlying southern delta region on thursday with rain water that has inundated much of the counu_,1,0,False Negative
 zxathetis are you okay electrocute you too badly right,0,0,True Negative
 watch this airport get swallowed up by sandstorm in under minute,1,1,True Positive
 info cld sct bkn exp inst apch rwy curfew in oper until taxiways foxtrot amp foxtrot navbl tmp wnd,0,0,True Negative
-like for the music video want some real action shit like burning buildings and police chases not some weak ben winston shit,1,1,True Positive
+like for the music video want some real action shit like burning buildings and police chases not some weak ben winston shit,1,0,False Negative
 new stretcher in min by fujiwara shunichiro technology,0,0,True Negative
 kyle is one of the last people would expect to like sleeping with sirens,0,0,True Negative
 join the providence health amp services team see our latest nursing job opening here torrance ca hiring,0,0,True Negative
@@ -1100,10 +1100,10 @@ lunasagalle synapsenkotze the exploded bean the bastard,0,0,True Negative
 the far right racist avigdorliberman calls for destruction of susiya previously he also called for beheadings,1,0,False Negative
 twelve feared killed in pakistani air ambulance helicopter crash,1,1,True Positive
 skinny jeans are hazardous for your health socialnews,1,1,True Positive
-killing black babies at planned parenthood wheres the demonstrations looting of pp burning down the buildings black babies lives matter,1,0,False Negative
+killing black babies at planned parenthood wheres the demonstrations looting of pp burning down the buildings black babies lives matter,1,1,True Positive
 expect gusty winds heavy downpours and lightning moving northeast toward va now,1,1,True Positive
 severe hailstorm in progress over northeast logan county cowx,1,1,True Positive
-heyimbeeyt its like theres fire in my skin and im drowning from within,1,0,False Negative
+heyimbeeyt its like theres fire in my skin and im drowning from within,1,1,True Positive
 siren just went off and it wasnt the forney tornado warning,1,1,True Positive
 joshacagan your only option now is to move to an desolate island with nothing but stack of dvds you canuat watch,0,0,True Negative
 usgs eq km of anchorage alaska time utc earthquake,1,1,True Positive
@@ -1125,8 +1125,8 @@ theres still room for you at our party for first responders from around the coun
 hellfire is surrounded by desires so be careful and donuat let your desires control you afterlife,0,0,True Negative
 uiymcglaun juliekragt wildwestsixgun youre lot safer that wayuyeah lot more stable amp if get in trouble have seat right there,0,0,True Negative
 rt owenrbroadhurst rt juanmthompson at this hour yrs ago one of the greatest acts of mass murder in world histu_,1,1,True Positive
-sourmashnumber tomfromireland rfcgeom bbctalkback they didnt succeed the other two times either bomb didnt detonateampshots missed,1,0,False Negative
-chinas stock market crash are there gems in the rubble chinauas stock market crash this summer has sparked,0,0,True Negative
+sourmashnumber tomfromireland rfcgeom bbctalkback they didnt succeed the other two times either bomb didnt detonateampshots missed,1,1,True Positive
+chinas stock market crash are there gems in the rubble chinauas stock market crash this summer has sparked,0,1,False Positive
 going to redo my nails and watch behind the scenes of desolation of smaug ayyy,1,0,False Negative
 my room looks like tornado passed through it and my ocd is not having it,0,1,False Positive
 my back is so sunburned,1,0,False Negative
@@ -1180,7 +1180,7 @@ leezy its like youre about to fall down cliff but youre grabbing my hand but my 
 new technology designed to help prevent dangerous police chases in an effort to reduce injuries milwaukee policeu_,0,0,True Negative
 afghanistan sharp rise in women and children casualties in first half of,1,1,True Positive
 marquei como visto game of thrones kissed by fire bancodeseries,0,1,False Positive
-hearitfrompatty also pls help us our campaign to warn the public about the hazardous keratin treatments the brazilian blowout copycats,0,0,True Negative
+hearitfrompatty also pls help us our campaign to warn the public about the hazardous keratin treatments the brazilian blowout copycats,0,1,False Positive
 womens cross body messengers bags clutch small shoulders zippers bags white,0,0,True Negative
 hot specially modified to land in stadium and rescue hostages in iran in prebreak best,1,1,True Positive
 rt our_mother_mary short reading apocalypse in the spirit the angel took me to the top of an enormous high mountain and u_,0,0,True Negative
@@ -1194,19 +1194,19 @@ dr bengston on wildfire management uinumbers and size of fires areas affected an
 glimpses hyderabad deluged by heavy rainfall,1,0,False Negative
 worked at fast food joint poured burnt hot oil down the sink it hit the water in the trap and exploded fallontonight worstsummerjob,0,1,False Positive
 lisatoddsutton the reason bring this up bcz he is running senate murphy is nothing but republican am deluged with his junk mail,0,0,True Negative
-when the answer my friend isnt blowing in the windits yelling how to survive dust storm,1,0,False Negative
+when the answer my friend isnt blowing in the windits yelling how to survive dust storm,1,1,True Positive
 chapoutier crozes hermitage so much purple violets slate crushed gravel white pepper yum france wine dc,0,0,True Negative
-aquarium ornament wreck sailing boat sunk ship destroyer fish tank cave decor full read u_,1,0,False Negative
+aquarium ornament wreck sailing boat sunk ship destroyer fish tank cave decor full read u_,1,1,True Positive
 pic of yr old pkk suicide bomber who detonated bomb in turkey army trench released,1,1,True Positive
 marketforce perth named winner of sirens round for iinet nbn buffering cat shark radio spot,0,0,True Negative
 is there night curfew on campus find out here,0,0,True Negative
-rain rain go away soaker is on the way gt lt,0,0,True Negative
+rain rain go away soaker is on the way gt lt,0,1,False Positive
 wanted gritty and real casualty photos of pasta thursdays at amicos tag us or amicospizzato seeyouatamicos,0,0,True Negative
 spent minutes lifting weights calories burned loseit,0,0,True Negative
 lightning strike in the distance via rpics pics,1,1,True Positive
 quotesttg save the panicking for when you get to helios,0,0,True Negative
-patience jonathan on the move to hijack apc in bayelsaaestate,0,0,True Negative
-ali you flew planes and ran into burning buildings why are you making soup for that man child booradleyvancullen,0,0,True Negative
+patience jonathan on the move to hijack apc in bayelsaaestate,0,1,False Positive
+ali you flew planes and ran into burning buildings why are you making soup for that man child booradleyvancullen,0,1,False Positive
 acousticmaloley no he was blazing it,0,0,True Negative
 national briefing west california spring oil spill estimate grows documents released on wednesday nyt,1,1,True Positive
 rory mcilroy to test ankle injury in weekend practice chinadotcom sports,0,0,True Negative
@@ -1219,7 +1219,7 @@ gonna drown it in mustard and lemon pepper,0,0,True Negative
 faan orders evacuation of abandoned aircraft at mma,1,1,True Positive
 dragon ball battle of gods rotten tomatoes via rottentomatoes,0,0,True Negative
 hobo hobo vintage shira convertible bu_ bestseller,0,0,True Negative
-world annihilation vs self transformation aliens attack to exterminate humans,0,0,True Negative
+world annihilation vs self transformation aliens attack to exterminate humans,0,1,False Positive
 suicide bomber hits saudi mosque,1,1,True Positive
 shot through the heart xv you are going to totally give love bad name with this heart pierc,0,0,True Negative
 gbbo the difference between paul and mary my dears paul it looks like mudslide mary have feeling its going to taste great,0,0,True Negative
@@ -1245,21 +1245,21 @@ come and join us tomorrow august at transcendblazing the trail to the diversifie
 medieval airplane hijacker hard shell casting the star deviating dyxtmrydu,1,0,False Negative
 miss_homasttopa cause were on fire we are on fire were on fire now yeah were on fire we are on fire were on fire nowwwwww,1,1,True Positive
 railways caught unawares by mp tragedy accident spot never marked as vulnerable times ofu_ news,1,1,True Positive
-advice from noah dont go running in thunderstorm,0,0,True Negative
+advice from noah dont go running in thunderstorm,0,1,False Positive
 unr issues severe thunderstorm warning wind mph hail in for weston wy and custer fall river lawrence meade pennington su_,1,1,True Positive
 virgin galactic crash early unlocking of brakes triggered structural failure,1,1,True Positive
 deluge of eulogies for cecilthelion on my whatsapp gtgtthis too tormented soul by matias xavier,0,0,True Negative
 do you have plan in case of pool chemical emergency learn more here watersafety cdc,0,0,True Negative
-crashed my car into parked car the other day modestmouseremix truestory,0,0,True Negative
+crashed my car into parked car the other day modestmouseremix truestory,0,1,False Positive
 smokers that ruin that new car smell,0,0,True Negative
 computers gadgets two giant cranes holding bridge collapse into nearby homes slingnews,1,1,True Positive
 love the sound of thunder rumbling across the mountains,0,0,True Negative
 dead missing families evacuated due to floods in bukidnon,1,1,True Positive
 as wild fires blacken northern california parched harris county becomes tinder box,1,1,True Positive
-vassalboro house to be razed to make way for public gazebo petel_mcguire reports,0,0,True Negative
+vassalboro house to be razed to make way for public gazebo petel_mcguire reports,0,1,False Positive
 love the song healing is heredeluge ampwanted to sing it at my church but its not in spanish so translated it,0,0,True Negative
 oct guys these bitches aint famine then,0,0,True Negative
-day bug in fully patched os comes under active exploit to bypass password ars technica,0,0,True Negative
+day bug in fully patched os comes under active exploit to bypass password ars technica,0,1,False Positive
 quarter whirlwind they dont see it coming,1,0,False Negative
 accident in ashville on us sb before sr traffic,1,1,True Positive
 erdogans bloody gambit on july suicide bombing in turkey took the lives of socialists in surui shareaholic,1,1,True Positive
@@ -1272,16 +1272,16 @@ new free porn clip taking of hostages dangerous for favors free rt adult sex tub
 heard the steven universe theme song from upstairs and screamed his name at the part of the song and scared my cousin,0,0,True Negative
 at the lake sees dead fish me poor little guy wonder what happened ashley idk maybe it drowned wtf,0,1,False Positive
 suicide bombing for daesh is rightly despicable suicide bombing for ocalan marxism they share our values,1,1,True Positive
-this govt of hubris has small maj yet acts as if it has landslide opposition reqd with vision rigour amp hunger to serve this democracy,0,0,True Negative
+this govt of hubris has small maj yet acts as if it has landslide opposition reqd with vision rigour amp hunger to serve this democracy,0,1,False Positive
 my mlg and food worlds have collided in this ijustine salmon video simple alaskaseafood askforalaska,0,0,True Negative
 rainstorm destroys houses in yobe ireporter via sharethis,1,1,True Positive
 amumumux lava you quit actin up,0,0,True Negative
 how to prepare your property for storm,1,0,False Negative
 savs contact fell out but she was convinced it didnt amp went on to guage her eyeball out amp now shes having panic attack over caused damage,0,1,False Positive
 growingupblack walking past chicken frying was like entering war zone,0,0,True Negative
-deadlydemi even staying up all night to he barrier for tiup and then having to run through dust storm and almost passing out,1,0,False Negative
+deadlydemi even staying up all night to he barrier for tiup and then having to run through dust storm and almost passing out,1,1,True Positive
 hiroshima bombing justified majority americans even today hindustan times,1,1,True Positive
-im on blood pressure meds and its still probably through the roof long before the ppact story broke was involved in animal rescue,0,1,False Positive
+im on blood pressure meds and its still probably through the roof long before the ppact story broke was involved in animal rescue,0,0,True Negative
 keampurley thirst has no curfew,0,0,True Negative
 fear factory in december done deal,0,1,False Positive
 do you feel like you are sinking in low selfimage take the quiz,1,0,False Negative
@@ -1313,9 +1313,9 @@ indiepopmom cant breathe my lungs collapsed,0,0,True Negative
 fire in pisgah national forest grows to acres,1,1,True Positive
 pjcoyle need to be included in emergency planning for chemical plants see also,0,0,True Negative
 there some flash flooding in madison valleywx,1,1,True Positive
-davidvitter hi david in saw the usa walk into war that destroyed the lives of millions you can prevent repeat irandeal,1,0,False Negative
+davidvitter hi david in saw the usa walk into war that destroyed the lives of millions you can prevent repeat irandeal,1,1,True Positive
 stupid women nearly collided into me today after she came out of junction not looking still kept coming towards me till beep my horn,1,0,False Negative
-beat the heat today only kill cliff free fall pick up cold drink today after the tough crossfit,0,0,True Negative
+beat the heat today only kill cliff free fall pick up cold drink today after the tough crossfit,0,1,False Positive
 ayshun_tornado then dont,0,1,False Positive
 landslide in italian alps kills three rome reuters three people were killed when severe rainstorm in th,1,1,True Positive
 drought fuels bush fires in jamaica jamaicaobserver cnewslive re,1,1,True Positive
@@ -1334,20 +1334,20 @@ patriot survival guide do you know how survive when the governments collapse or 
 if your friends really were your friends theyd support you regardless of your decisions unless you become massmurderer or something,0,0,True Negative
 what tribal olap world pres how to recognize hazardous waste and the multidimensi,0,1,False Positive
 when you get bomb ass picture mail,0,0,True Negative
-need to stop bottling things up because when everything eventually explodes the casualties just keep getting higher and higher,1,1,True Positive
+need to stop bottling things up because when everything eventually explodes the casualties just keep getting higher and higher,1,0,False Negative
 kurtschlichter falphil this liberal compassion is bs specific feminist said the us bombed japan back to traditional sexist values,0,1,False Positive
 keeps askin me what this means not like got the answers plus if say the wrong thing this might just turn into disaster,1,0,False Negative
 want to work in tarzana ca view our latest opening nursing job jobs hiring,0,0,True Negative
 new nyc legionnaires disease death toll rises follow,1,1,True Positive
 american weapons and support are fueling bloody air war in yemen,1,1,True Positive
 pm mapleridge lougheed hwy eb is closed between rd and dewdney trunk rd because of collision eto is between pm and pm,1,1,True Positive
-sweetyoung came in had he fucking moved his entire existence wouldve been obliterated,0,0,True Negative
+sweetyoung came in had he fucking moved his entire existence wouldve been obliterated,0,1,False Positive
 businesses are deluged with invoices make yours stand ogt with colomr or shape and its likely to rise to the top of the pay pile,0,0,True Negative
-police monitoring jihadis in poland via freedomoutpost,1,0,False Negative
+police monitoring jihadis in poland via freedomoutpost,1,1,True Positive
 ks except every character is shizune the world would explode,0,0,True Negative
-chinas stock market crash are there gems in the rubble,0,0,True Negative
+chinas stock market crash are there gems in the rubble,0,1,False Positive
 posted new song earthquake,0,0,True Negative
-mh intact part lifts odds plane glided not crashed into sea,1,0,False Negative
+mh intact part lifts odds plane glided not crashed into sea,1,1,True Positive
 dazzle destroy the fun,0,0,True Negative
 yearold boy charged with manslaughter of toddler report an yearold boy has been charged with manslaughter over the fatal sh,1,1,True Positive
 sonofbaldwin and hes the current nova in the bookslast checkedhe was tied into the books in after rider died during annihilation,0,1,False Positive
@@ -1364,11 +1364,11 @@ theres an emergency evacuation happening now in the building across the street,1
 _rosewell it has crashed so many times the past couple hours,0,0,True Negative
 obama declares disaster for typhoondevastated saipan obama signs disaster declaration for northern marians,1,1,True Positive
 nine giant body sized garbage bags laterim just going to start throwing things away movingk expertwhiner,0,0,True Negative
-beautiful disaster,0,0,True Negative
+beautiful disaster,0,1,False Positive
 picking up man in bar is like snowstorm you never know when hes coming how many inches youll get or how longll hell stay,0,0,True Negative
 severe weather statement issued august at pm cdt by nws the severe thunderstorm warn skywarn okwx,1,1,True Positive
 video were picking up bodies from water rescuers are searching for hundreds of migrants in the mediterranean after boat carryi,1,1,True Positive
-and my fam had to evacuate bc we need power,1,0,False Negative
+and my fam had to evacuate bc we need power,1,1,True Positive
 tomorrow is the day we start armageddon preseasonworkouts,0,0,True Negative
 aftershock protect yourself and profit in the next global financial meltdown by david wiedemer http,0,0,True Negative
 tricycle toddler atomic bomb in fraction of second our decisions change the landscape of humanity,1,1,True Positive
@@ -1386,14 +1386,14 @@ krefeld the incident happened in chemical industry park emergency operations und
 ufaceless body belonged to my sisterua hiroshima nagasaki nuke survivors recall horrors years on uo rt news,1,1,True Positive
 me trying to look cute wen crush is passing by,0,0,True Negative
 my brain id about to explode lmao,0,0,True Negative
-from leandotorg lean thinking for quicker police emergency response time,0,1,False Positive
+from leandotorg lean thinking for quicker police emergency response time,0,0,True Negative
 im over here listening to bloody jay,0,0,True Negative
 plane panic what kind of douchebag bubble gum,0,0,True Negative
 kunalkapoor photo of the day storm chaser photography pod,1,1,True Positive
 kapokekito on northgate by the taco truck thats fire,1,0,False Negative
 dlh issues hazardous weather outlook hwo,1,1,True Positive
 reuters twelve feared killed in pakistani air ambulance helicopter crash,1,1,True Positive
-chinas stock market crash are there gems in the rubble forbesasia,1,0,False Negative
+chinas stock market crash are there gems in the rubble forbesasia,1,1,True Positive
 safyuan just minor citation for possesion of decriminalized substance im not facing any time,0,0,True Negative
 thankful for our first responders especially mnpdnashville for life saving response today in antioch,1,1,True Positive
 why marijuana is critical for research in treating ptsd hempoil cannabis marijuanau_,0,1,False Positive
@@ -1406,10 +1406,10 @@ city implores motorists not to speed after more reports of animal fatalities nea
 oooureli abu_baraa you mean like the tolerance you showed when sharing democracy with the iraqis wait you mutilated and bombed them,0,0,True Negative
 world class tgirl ass scene pandemonium,0,0,True Negative
 pic of yr old pkk suicide bomber who detonated bomb in turkey army trench released,1,1,True Positive
-moorlandschmbr loads of stuff going on recently see the blog at sinkhole piling,0,0,True Negative
+moorlandschmbr loads of stuff going on recently see the blog at sinkhole piling,0,1,False Positive
 smoke it all,0,0,True Negative
 canceling deal for warships france agrees to repay russia via nytimes,0,1,False Positive
-sonofliberty all illuminated by the brightly burning buildings all around the town,0,0,True Negative
+sonofliberty all illuminated by the brightly burning buildings all around the town,0,1,False Positive
 was obliterated last night,0,0,True Negative
 fedex no longer to transport bioterror germs in wake of anthrax lab mishaps,1,0,False Negative
 sustainability task force presents levy to fund emergency services wdtv,1,0,False Negative
@@ -1418,10 +1418,10 @@ zourryart forgot to add the burning buildings and screaming babies,1,0,False Neg
 breaking news haunting memories drawn by survivors,1,1,True Positive
 reminder mass murderer and white supremacist anders breivik was also unsurprisingly an antifeminist,1,0,False Negative
 do he love me do he love me not aint playa just crush lot,0,0,True Negative
-julian knight scvsupremecourt dismisses mass murderers attempt to increase prisoner pay challenged quantum of increase,1,0,False Negative
+julian knight scvsupremecourt dismisses mass murderers attempt to increase prisoner pay challenged quantum of increase,1,1,True Positive
 savings and sewing in guatemala savings and sewing in guatemala when natural disaster hit seamstress elvia,1,1,True Positive
 man cam just demolished his plate his ass was hungry,0,0,True Negative
-senschumer is this what want netanyahu leading these united states into catastrophic religious world war enough already,0,0,True Negative
+senschumer is this what want netanyahu leading these united states into catastrophic religious world war enough already,0,1,False Positive
 japan marks th anniversary of hiroshima atomic bombing bells tolled in hiroshima on thursday as japan marked u_,1,1,True Positive
 udhampur terror attack militants attack police post spos injured suspected militants tonight attacked,1,1,True Positive
 welles_ he was injured he is pro bowl back,0,0,True Negative
@@ -1431,19 +1431,19 @@ tinyjecht are you another standuser if you are will have to detonate you with my
 sex workers say credit card bans on online ads do more harm than good,0,0,True Negative
 emergency units simulate chemical explosion at nu suppose student in the research labs at northwesternu_,1,1,True Positive
 the sea will electrocute us all,0,0,True Negative
-of what use exactly is the national assembly honestly they are worthless we are derailed,0,0,True Negative
+of what use exactly is the national assembly honestly they are worthless we are derailed,0,1,False Positive
 question is anybody else having this problem with the circle in epicentre,0,0,True Negative
 christie keeps telling me that need to be electrocuted,0,0,True Negative
 im awful at painting why did agree to do an landscape in bloody oils of all paints,0,0,True Negative
 utckm of volcano hawaii,1,1,True Positive
 ignition knock detonation sensorsenso standard ks,1,0,False Negative
 hundreds of migrants feared drowned off libya migrants stand next to their tent at camp set near calaisu_,1,1,True Positive
-windstorm wsvrb cover for vhull runabout boat including eurostyle with wi,0,0,True Negative
+windstorm wsvrb cover for vhull runabout boat including eurostyle with wi,0,1,False Positive
 my fifty online dates and why im still single by michael windstorm bampn nook books thebachelorette,0,0,True Negative
 good piece on israeli incitement and jewish terrorism by beinart,1,1,True Positive
 feel like ive been flattened by sumo wrestler no pain no gain muaytai wantmyabsback strong,0,0,True Negative
 the pak terrorist who has been caught alive must be tried fast not delayed as kasabwe must send very hard message to pak instead of biryani,1,1,True Positive
-patricia_traina any update on the mcclain injury from todays practicenyg,0,0,True Negative
+patricia_traina any update on the mcclain injury from todays practicenyg,0,1,False Positive
 it still hasnt sunk in that ive actually met my idol,0,0,True Negative
 bestnaijamade yr old pkk suicide bomber who detonated bomb in bestnaijamade bestnaijamade bestnaijamade beu_,1,1,True Positive
 fredolsencruise please take the faroeislands off your itinerary until the mass murder of dolphins amp whales stops,0,1,False Positive
@@ -1463,17 +1463,17 @@ reddit lightning sparks new fires in boise national forest rstormcoming,1,1,True
 ppfa at least they arent burning buildings and looting stores,0,1,False Positive
 learning from the most destructive volcanic event in us history thirtyfive years later,1,1,True Positive
 ituas time to do away with droughtcheck out how the cloud iot are helping conserve water,1,0,False Negative
-after few years afloat pension plans start sinking again,1,0,False Negative
+after few years afloat pension plans start sinking again,1,1,True Positive
 punkblunts sincerelyevelnn fall off cliff into hell idc,0,0,True Negative
-murfreesboro peeps im hearing walmart on rutherford is on lockdown with hostage is that true or rumor,1,1,True Positive
+murfreesboro peeps im hearing walmart on rutherford is on lockdown with hostage is that true or rumor,1,0,False Negative
 let another love crash and burn,0,0,True Negative
 emergency responders prepare for chemical disaster through hazmat training,1,1,True Positive
-hearitfrompa also pls help us our campaign to warn the public about the hazardous keratin treatments the brazilian blowout copycats,0,0,True Negative
+hearitfrompa also pls help us our campaign to warn the public about the hazardous keratin treatments the brazilian blowout copycats,0,1,False Positive
 joshcorman infosec rather you knew it or not your firefighter now days you often run into burning buildings deal with it,0,0,True Negative
 ronwyden democrats restricted blacks from voting in landslide lyndon johnson won senate election by votes of dead people in texas,0,1,False Positive
 russian authorities to take account of petition against destruction of sanctioned food vladimir putins press,0,1,False Positive
-on the nd year the officer team running the club collapsed few influential members betrayed everyones trust severing the community,0,0,True Negative
-become another casualty of society,0,1,False Positive
+on the nd year the officer team running the club collapsed few influential members betrayed everyones trust severing the community,0,1,False Positive
+become another casualty of society,0,0,True Negative
 refugio oil spill may have been costlier bigger than projected la times,1,1,True Positive
 kirstiealley _animaladvocate or pay it for photo safari no weapons allowed otherwisethey just like to kill something,0,0,True Negative
 wwi wwii japanese army navy military japan leather watch war mido ww full read by ebay,0,0,True Negative
@@ -1483,7 +1483,7 @@ alexandrapullin it is indeed if the apocalypse comes this week know where ill be
 its been raining since you left me now im drowning in the flood you see ive always been fighter but without you give up,0,0,True Negative
 stepped outside with drink and cigarette and immediately locked eyes with jogger worlds really do collide,0,0,True Negative
 thenissonian rejectdcartoons nissan are you ok do you need medical assistance can call an ambulance if you need me to,0,0,True Negative
-elsa is gonna end up getting electrocuted shes gonna end up like that cat from christmas vacation,0,1,False Positive
+elsa is gonna end up getting electrocuted shes gonna end up like that cat from christmas vacation,0,0,True Negative
 _minimehh cjoyner must be overlooking the burning buildings blacklivesmatter,1,1,True Positive
 robert conquest famine museum kiev guidofawkes mediaguido,0,1,False Positive
 we happily support mydrought project bringing awareness to the la drought track your wateru_,1,1,True Positive
@@ -1503,10 +1503,10 @@ my dad is panicking as my weight loss means he needs to hurry up with my new clo
 anyone missing their license plate two stolen ones found on terrorists car,1,1,True Positive
 dmunni jeannamibian noooooooo proceeds to fall off cliff,0,0,True Negative
 haunting memories drawn by survivors,1,1,True Positive
-sa mp steel and ferrochrome industry on verge of collapse you dont even put that on list of questions to president for oral answer,0,0,True Negative
+sa mp steel and ferrochrome industry on verge of collapse you dont even put that on list of questions to president for oral answer,0,1,False Positive
 wild land fires here come,1,1,True Positive
 missdaoh and if she had screaming baby you would have loved that so much more,0,0,True Negative
-us wont upgrade its infrastructure it bad situation and its going to get ugly very quickly usa sustainability,1,0,False Negative
+us wont upgrade its infrastructure it bad situation and its going to get ugly very quickly usa sustainability,1,1,True Positive
 tbt to that time my best friend and panicked at the disco,0,0,True Negative
 screaming in different languages,0,0,True Negative
 to luka they should all die all of them everything annihilated alois trancy,0,0,True Negative
@@ -1514,11 +1514,11 @@ medieval airplane hijacker testa earnings the distinction divers htarvrgly,1,0,F
 snowywolf thegreenparty besides would you rather shut down whole nuclear reactor for maintenance or wind turbine at time,1,0,False Negative
 wheres my arsonist at,0,0,True Negative
 christian attacked by muslims at the temple mount after waving israeli flag via pamela geller,1,1,True Positive
-first time getting into gbbo and physically gasped at the cake mudslide incident already way too emotionally invested,1,1,True Positive
+first time getting into gbbo and physically gasped at the cake mudslide incident already way too emotionally invested,1,0,False Negative
 dying with debt can be costly for survivors,0,0,True Negative
 caution breathing may be hazardous to your health,0,1,False Positive
 smusx skype just crashed host,0,0,True Negative
 christian attacked by muslims at the temple mount after waving israeli flag via pamela geller,1,1,True Positive
 man charged over fatal crash near dubbo refused bail via dailyliberal,1,1,True Positive
 usnwsgov severe weather statement issued august at pm edt by nws the severe thunderstorm warning,1,1,True Positive
-great british ltbgtbakeltbgt offs back and dorrets ltbgtchocolateltbgt gateau collapsed janu_,0,0,True Negative
+great british ltbgtbakeltbgt offs back and dorrets ltbgtchocolateltbgt gateau collapsed janu_,0,1,False Positive

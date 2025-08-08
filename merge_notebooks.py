@@ -1,3 +1,4 @@
+# This script merges multiple Jupyter notebooks into a single notebook for school submission.
 import nbformat as nbf
 from pathlib import Path
 
