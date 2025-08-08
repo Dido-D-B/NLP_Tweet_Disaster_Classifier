@@ -16,12 +16,6 @@ venv/
 # Notebooks
 .ipynb_checkpoints/
 
-# Data (keep tiny samples only)
-data/
-!/data/README.md
-app/data/
-!app/data/test_sample.csv
-
 # Models / artifacts (use LFS—see below)
 *.keras
 *.h5
@@ -38,7 +32,6 @@ app/reports/*.csv
 # Streamlit
 .streamlit/secrets.toml
 
-# --- Exceptions for deploy artifacts ---
+# Exceptions for deploy artifacts
 !app/model/cnn_disaster_classifier.keras
 !app/model/tokenizer.pickle
-!app/data/test.csv
