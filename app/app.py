@@ -269,15 +269,15 @@ elif page == "EDA & Word Analysis":
     st.write("Word clouds visualize the most frequent words in the tweets, both combined and per class (disaster vs non-disaster).")
 
     st.subheader("All Tweets (Combined)")
-    st.image("../app/images/wordcloud.png", use_container_width=True)
+    st.image("app/images/wordcloud.png", use_container_width=True)
 
     col1, col2 = st.columns(2)
     with col1:
         st.subheader("Disaster Tweets")
-        st.image("../app/images/wordcloud_disaster.png", use_container_width=True)
+        st.image("app/images/wordcloud_disaster.png", use_container_width=True)
     with col2:
         st.subheader("Non-Disaster Tweets")
-        st.image("../app/images/wordcloud_non_disaster.png", use_container_width=True)
+        st.image("app/images/wordcloud_non_disaster.png", use_container_width=True)
 
     # Word Frequency Analysis Section
     st.header("Word Frequency Analysis")
