@@ -268,30 +268,16 @@ elif page == "EDA & Word Analysis":
     st.header("Wordclouds")
     st.write("Word clouds visualize the most frequent words in the tweets, both combined and per class (disaster vs non-disaster).")
 
-    combined_wc_paths = [
-        "app/images/wordclouds.png",            # preferred new filename
-        "app/images/wordcloud_all.png",        # fallback option
-        "app/images/wordcloud.png"             # legacy single image name
-    ]
-    combined_wc_shown = False
-    for p in combined_wc_paths:
-        if os.path.exists(p):
-            st.subheader("All Tweets (Combined)")
-            st.image(p, use_container_width=True)
-            combined_wc_shown = True
-            break
+    st.subheader("All Tweets (Combined)")
+    st.image("../app/images/wordcloud.png", use_container_width=True)
 
     col1, col2 = st.columns(2)
     with col1:
         st.subheader("Disaster Tweets")
-        # prefer new filename, fallback to legacy
-        disaster_wc = "app/images/wordclouds_disasters.png" if os.path.exists("app/images/wordclouds_disasters.png") else "app/images/wordcloud_disaster.png"
-        st.image(disaster_wc, use_container_width=True)
+        st.image("../app/images/wordcloud_disaster.png", use_container_width=True)
     with col2:
         st.subheader("Non-Disaster Tweets")
-        # prefer new filename, fallback to legacy
-        non_wc = "app/images/wordclouds_non_disaster.png" if os.path.exists("app/images/wordclouds_non_disaster.png") else "app/images/wordcloud_non_disaster.png"
-        st.image(non_wc, use_container_width=True)
+        st.image("../app/images/wordcloud_non_disaster.png", use_container_width=True)
 
     # Word Frequency Analysis Section
     st.header("Word Frequency Analysis")
