@@ -5,13 +5,15 @@ This repository contains:
 
 - Data preprocessing & modeling notebooks
 - A trained Convolutional Neural Network (CNN) model
-- An interactive [Streamlit](https://nlp-tweet-disaster-classifier.streamlit.app/) app for real-time predictions and a behind the scences look at preprocessing steps and misqualified Tweets.
+- An interactive [Streamlit](https://nlp-tweet-disaster-classifier.streamlit.app/) app for real-time predictions and a behind-the-scenes look at preprocessing steps and misqualified Tweets.
+
+<img width="1224" height="680" alt="image" src="https://github.com/user-attachments/assets/8b765ea0-a218-48b6-8934-7a40224c201f" />
 
 ---
 
 ## Project Overview
 
-The aim of this project is to build and deploy a machine learning model that predicts whether a given tweet refers to a real disaster. The dataset contains 10,000 labeled tweets (from the [Kaggle competition](https://www.kaggle.com/competitions/nlp-getting-started)).
+This project aims to build and deploy a machine learning model that predicts whether a given tweet refers to a real disaster. The dataset contains 10,000 labeled tweets (from the [Kaggle competition](https://www.kaggle.com/competitions/nlp-getting-started)).
 
 **Key features:**
 
@@ -53,7 +55,7 @@ NLP_Tweet_Disaster_Classifier/
 
 2. **Tokenization & Lemmatization**
 
-   - POS tagging to choose correct lemma
+   - POS tagging to choose the correct lemma
    - Stopword removal (NLTK + custom stopwords)
 
 3. **Vectorization**
@@ -70,7 +72,7 @@ NLP_Tweet_Disaster_Classifier/
    - Trained CNN + tokenizer loaded in Streamlit app
    - User can:
      - Enter custom text
-     - Generate a random tweet from test set
+     - Generate a random tweet from the test set
      - View preprocessing steps and prediction probability
      - Model summary & EDA pages
 
