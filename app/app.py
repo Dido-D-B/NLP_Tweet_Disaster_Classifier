@@ -31,10 +31,25 @@ from nltk import pos_tag, word_tokenize
 from nltk.corpus import wordnet
 import unicodedata
 
-nltk.download("punkt")
-nltk.download("stopwords")
-nltk.download("averaged_perceptron_tagger")
-nltk.download("wordnet")
+
+def _safe_nltk_download(pkg):
+    try:
+        if pkg == "punkt":
+            nltk.data.find("tokenizers/punkt")
+        elif pkg == "punkt_tab":
+            nltk.data.find("tokenizers/punkt_tab/english")
+        elif pkg == "stopwords":
+            nltk.corpus.stopwords.words("english")
+        elif pkg == "averaged_perceptron_tagger":
+            nltk.data.find("taggers/averaged_perceptron_tagger")
+        elif pkg == "wordnet":
+            nltk.data.find("corpora/wordnet")
+        return
+    except LookupError:
+        nltk.download(pkg, quiet=True)
+
+for pkg in ["punkt", "punkt_tab", "stopwords", "averaged_perceptron_tagger", "wordnet"]:
+    _safe_nltk_download(pkg)
 
 stop_words = set(stopwords.words("english"))
 # Add custom stopwords used during training
