@@ -37,7 +37,11 @@ NLP_Tweet_Disaster_Classifier/
 │   │   └── test_sample.csv                   # Tweets from the test set for demo
 │   ├── images/                               # Charts & visualizations
 │   ├── reports/                              # Classification reports, CSV summaries
-├── notebooks/                                # Jupyter notebooks for cleaning, EDA & modeling
+├── data/         
+│   ├── procesed/                             # cleaned data split into train/test               
+│   ├── raw/                                  
+├── notebooks/ 
+├── presentation/                             # Slides in pdf and model comparison table
 ├── requirements.txt                          # Project dependencies
 ├── runtime.txt                               # Python version for deployment
 └── README.md                                 # This file
